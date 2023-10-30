@@ -1,11 +1,11 @@
 const fs = require('fs');
 // const data = require('./data1.json');
-const data = require('./data30.json');
+const data = require('./data4.json');
 const logger = require('./logger');
 logger.log('This is a log message.');
-for (let index = 0; index < 361; index++) {
+for (let index = 0; index < data.length; index++) {
   var people= data[index];
-  const { name, email, code } = people;
+  const { name, emailId, code } = people;
   const dynamicImageUrl = `https://github.com/Craftech360-projects/qrautogourment/blob/main/images/${code}.png?raw=true`;
 
 
@@ -49,7 +49,7 @@ const request = mailjet.post('send', { version: 'v3.1' }).request({
       },
       To: [
         {
-          Email: 'sanjay@craftrech360.com',
+          Email: emailId,
           Name: name,
         },
       ],
@@ -62,7 +62,7 @@ const request = mailjet.post('send', { version: 'v3.1' }).request({
 request.then(x=>{
   console.log(x.body);
   logger.log(name);
-  logger.log(email);
+  logger.log(emailId);
   logger.log(JSON.stringify(x.body));
 }
   ).catch(err=>{

@@ -1,6 +1,6 @@
 const nodeHtmlToImage = require('node-html-to-image');
 const fs = require('fs');
-const data = require('./data4.json');
+const data = require('./data31.json');
 const QRCode = require('qrcode');
 
 
@@ -15,16 +15,16 @@ if (!fs.existsSync(qrcodeDirectory)) {
   fs.mkdirSync(qrcodeDirectory);
 }
 
-let codeNumber = 943;
+let codeNumber = 1900;
 let peopleCollection = []
 
 const generateImages = async () => {
   for (let index = 0; index < data.length; index++) {
 
     let item = data[index];
-    const { name, phoneNumber, email, code } = item;
-    // codeNumber++;
-    // const code = `GL23EF${codeNumber.toString().padStart(4, '0')}`;
+    const { name, phoneNumber, email } = item;
+    codeNumber++;
+    const code = `GL23EF${codeNumber.toString().padStart(4, '0')}`;
 
     const qrCodeData = code;
     // const qrCodePath = `${qrcodeDirectory}/${code}.png`; 
