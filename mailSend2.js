@@ -1,13 +1,35 @@
 const fs = require('fs');
 // const data = require('./data1.json');
-const data = require('./data4.json');
+// const data = require('./data4.json');
+const data=[{
+  name:"Mr Morani",
+  phoneNumber:"9821043198",
+  emailId:"mohomedmorani@domeindia.com",
+  code:"GL23EF1910"
+},
+{
+  name:"Esha",
+  phoneNumber:"9930715359",
+  emailId:"esha@sanjeevkapoor.com",
+  code:"GL23EF1911"
+},
+{
+  name:"Mr Kapoor",
+  phoneNumber:"9821046055",
+  code:"GL23EF1912"
+},
+{
+  name:"Dear Mazar",
+  phoneNumber:"9821222599",
+  code:"GL23EF1913"
+}
+]
 const logger = require('./logger');
 logger.log('This is a log message.');
-for (let index = 0; index < data.length; index++) {
+for (let index = 0; index < 2; index++) {
   var people= data[index];
   const { name, emailId, code } = people;
   const dynamicImageUrl = `https://github.com/Craftech360-projects/qrautogourment/blob/main/images/${code}.png?raw=true`;
-
 
   var htmlString =
     `<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head><title>GOURMETLUXE</title><!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]--><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style type="text/css">#outlook a { padding:0; }

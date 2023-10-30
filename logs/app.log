@@ -397,3 +397,10 @@
 2023-10-30T17:54:55.085Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nitin.paliwal@westfaliafruit.com","MessageUUID":"38f5f4d6-13b0-4e38-af91-f3d5b24dc7f6","MessageID":"576460772594845988","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772594845988"}],"Cc":[],"Bcc":[]}]}
 2023-10-30T17:54:55.085Z - NitinPaliwal
 2023-10-30T17:54:55.085Z - nitin.paliwal@westfaliafruit.com
+2023-10-30T18:44:00.717Z - This is a log message.
+2023-10-30T18:44:01.342Z - esha@sanjeevkapoor.com
+2023-10-30T18:44:01.342Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"esha@sanjeevkapoor.com","MessageUUID":"e1a681af-bc3e-425e-9d40-19a957b08891","MessageID":"1152921524900602756","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524900602756"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T18:44:01.342Z - Esha
+2023-10-30T18:44:01.345Z - Mr Morani
+2023-10-30T18:44:01.345Z - mohomedmorani@domeindia.com
+2023-10-30T18:44:01.345Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mohomedmorani@domeindia.com","MessageUUID":"418706d0-3699-41b4-b34f-a3b0b8351439","MessageID":"288230396442673950","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396442673950"}],"Cc":[],"Bcc":[]}]}
