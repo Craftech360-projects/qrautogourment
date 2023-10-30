@@ -12,7 +12,7 @@ if (!fs.existsSync(qrcodeDirectory)) {
   fs.mkdirSync(qrcodeDirectory);
 }
 
-let codeNumber = 0;
+let codeNumber = 366;
 let peopleCollection = []
 
 
@@ -54,7 +54,7 @@ const generateImages = async () => {
     position: absolute;
     top: 35%;
     left: 21%;
-    max-width: 250px;
+    max-width: 550px;
     white-space: normal;
   }
 

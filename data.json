@@ -1,21 +1,2697 @@
 [
- 
- 
   {
-    "name": "Jimmy",
-    "phoneNumber": "123-456-7890",
-    "email": "jimmy@eventfaqs.com"
+   "Source": "Redbull",
+   "name": "Shezana Shaikh",
+   "Company name": "Red Bull",
+   "Designation:": "Field Marketing Specialist",
+   "email": "shezana.shaikh@redbull.com",
+   "phoneNumber": 7977203987
   },
   {
-    "name": "RAMESH",
-    "phoneNumber": "123-456-7890",
-    "email": "ramesh@eventfaqs.com"
+   "Source": "Redbull",
+   "name": "Darayus Bhathena",
+   "Company name": "Red Bull",
+   "Designation:": "Field Marketing Manager",
+   "email": "Darayus.bhathena@redbull.com",
+   "phoneNumber": "91 98810 92972"
   },
   {
-    "name": "DEEPAK",
-    "phoneNumber": "123-456-7890",
-    "email": "deepak@eventfaqs.com"
+   "Source": "Redbull",
+   "name": "Diva Daruwala",
+   "Company name": "Red Bull",
+   "Designation:": "Field Marketing Specialist",
+   "email": "Diva.daruwala@redbull.com",
+   "phoneNumber": "91 97656 81117"
+  },
+  {
+   "Source": "Bikaji",
+   "name": "Sagar Parikh",
+   "Company name": "3 Brothers & Fils",
+   "Designation:": "Managing Partner",
+   "email": "sagar.parikh@3bf.in",
+   "phoneNumber": 9821013803
+  },
+  {
+   "Source": "Bikaji",
+   "name": "Panam Parikh",
+   "Company name": "3 Brothers & Fils",
+   "Designation:": "Managing Partner",
+   "email": "panam.parikh@3bf.in",
+   "phoneNumber": 9820550655
+  },
+  {
+   "Source": "Bikaji",
+   "name": "Jainie's Sethia",
+   "Company name": "Bikaji Foods",
+   "Designation:": "R & D & Food Setup",
+   "email": "jainienahata1993@gmail.com",
+   "phoneNumber": 7508360406
+  },
+  {
+   "Source": "Bikaji",
+   "name": "Taran Khetawat",
+   "Company name": "3 Brothers & Fils",
+   "Designation:": "Client Head",
+   "email": "taran.khetawat@3bf.in",
+   "phoneNumber": 7045274925
+  },
+  {
+   "Source": "Bikaji",
+   "name": "Gopal Agarwal",
+   "Company name": "Bikaji Foods",
+   "Designation:": "General Manager",
+   "email": "gopal@bikaji.com",
+   "phoneNumber": 7045789957
+  },
+  {
+   "Source": "orange blossoms",
+   "name": "AMIT TYAGI",
+   "Company name": "ORANGE BLOSSOM",
+   "Designation:": "DIRECTOR",
+   "email": "TGOURMET_2@YAHOO.CO.IN",
+   "phoneNumber": 9891582027
+  },
+  {
+   "Source": "American Pistachio",
+   "name": "Mr. Sumit Saran",
+   "Company name": "American Pistachio Growers",
+   "Designation:": "91 98102 73513",
+   "email": "ssaran@ss-associates.co.in"
+  },
+  {
+   "Source": "American Pistachio",
+   "name": "Mr. Gurinder Singh",
+   "Company name": "American Pistachio Growers",
+   "Designation:": "91 98114 43653",
+   "email": "gsingh@ss-associates.co.in"
+  },
+  {
+   "Source": "American Pistachio",
+   "name": "Mr. Ravinder Kumar",
+   "Company name": "American Pistachio Growers",
+   "Designation:": "91 95603 86357",
+   "email": "rkumar@ss-associates.co.in"
+  },
+  {
+   "Source": "American Pistachio",
+   "name": "Ms. Rhiannon Elms",
+   "Company name": "USDA\/FAS, US Consulate, Mumbai",
+   "Designation:": "91 93219 74754",
+   "email": "ElmsRN@state.gov"
+  },
+  {
+   "Source": "American Pistachio",
+   "name": "Mr. Dhruv Sood",
+   "Company name": "USDA\/FAS, US Consulate, Mumbai",
+   "Designation:": "91 98336 62311",
+   "email": "SoodDX@state.gov"
+  },
+  {
+   "Source": "American Pistachio",
+   "name": "Ms. Arundhati Sawant",
+   "Company name": "USDA\/FAS, US Consulate, Mumbai",
+   "Designation:": "91 75065 34850",
+   "email": "SawantAA@state.gov"
+  },
+  {
+   "Source": "American Pistachio",
+   "name": "Mr. Ankit Chawala",
+   "Company name": "Haldirams",
+   "Designation:": "91 99997 89996",
+   "email": "ankit.chawla@haldiram.com"
+  },
+  {
+   "Source": "Westfalia fruit",
+   "name": "Zac Bard",
+   "Company name": "Westfalia Fruit",
+   "Designation:": "Executive Manager",
+   "email": "zacb@westfaliafruit.co.za",
+   "phoneNumber": 6309010400
+  },
+  {
+   "Source": "Westfalia fruit",
+   "name": "Ajay TG",
+   "Company name": "Westfalia Fruit",
+   "Designation:": "General Manager",
+   "email": "ajay.tg@westfaliafruit.com",
+   "phoneNumber": 7032656796
+  },
+  {
+   "Source": "Westfalia fruit",
+   "name": "Nitin Paliwal",
+   "Company name": "Westfalia Fruit",
+   "Designation:": "Manager- Sales & Marketing",
+   "email": "nitin.paliwal@westfaliafruit.com",
+   "phoneNumber": 9928994579
+  },
+  {
+   "Source": "Westfalia fruit",
+   "name": "Prince Nagpal",
+   "Company name": "I Love Food Catering Co.",
+   "Designation:": "CEO",
+   "email": "us.nagpal@gmail.com",
+   "phoneNumber": 9870022220
+  },
+  {
+   "Source": "Blue Sea",
+   "name": "Aniket Shetty",
+   "Company name": "Catering Collective",
+   "Designation:": "Marketing Executive",
+   "email": "aniket.shetty@cateringcollective.in",
+   "phoneNumber": 9152208854
+  },
+  {
+   "Source": "Blue Sea",
+   "name": "Noopur Athale",
+   "Company name": "Catering Collective",
+   "Designation:": "Assistant Marketing Manager",
+   "email": "noopur.athale@cateringcollective.in",
+   "phoneNumber": 9152818173
+  },
+  {
+   "Source": "Blue Sea",
+   "name": "Shraddha Motipara",
+   "Company name": "K Hospitality",
+   "Designation:": "DeputyGeneral Marketing Manager",
+   "email": "shraddha.motipara@k-corp.in",
+   "phoneNumber": 9619187143
+  },
+  {
+   "Source": "Blue Sea",
+   "name": "Lavanya Tabeck",
+   "Company name": "Catering Collective",
+   "Designation:": "Marketing Intern",
+   "email": "marketing.intern@cateringcollective.in",
+   "phoneNumber": 8112555585
+  },
+  {
+   "Source": "Bikaji' Guest",
+   "name": "Pratishta Agarwal",
+   "Company name": "Bikaji Foods",
+   "Designation:": "Director",
+   "email": "panam.parikh@3bf.in",
+   "phoneNumber": 9820550655
+  },
+  {
+   "Source": "Bikaji' Guest",
+   "name": "Suresh Luniya",
+   "Company name": "Zoetto Food & Beverages Pvt. Ltd.",
+   "Designation:": "Owner",
+   "email": "sureshluniya@gmail.com",
+   "phoneNumber": 9167033139
+  },
+  {
+   "Source": "Bikaji' Guest",
+   "name": "Toral Mazumdar",
+   "Company name": "Individual Consultant",
+   "Designation:": "Event Planner",
+   "email": "toral.mazmudar@gmail.com",
+   "phoneNumber": 9820754470
+  },
+  {
+   "Source": "Bikaji' Guest",
+   "name": "Vinay Khetawat",
+   "Company name": "Individual Consultant",
+   "Designation:": "Wedding Planner",
+   "email": "vkhetawat@gmail.com",
+   "phoneNumber": 9820140726
+  },
+  {
+   "Source": "Bikaji Crew",
+   "name": "Gopal's Team (3)",
+   "Company name": "Bikaji Foods",
+   "Designation:": "Staff",
+   "email": "gopal@bikaji.com",
+   "phoneNumber": 7045789957
+  },
+  {
+   "Source": "WeddingSutra",
+   "name": "Mudit Jain",
+   "Company name": "DCW LIMITED",
+   "email": "muditjain @dcwltd.com",
+   "phoneNumber": "9820850116 \\ 9820030962"
+  },
+  {
+   "Source": "WeddingSutra",
+   "name": "Malti Jain",
+   "Company name": "SP JAIN School Of Global Management",
+   "email": "maltijain9@gmail.com",
+   "phoneNumber": 9820500456
+  },
+  {
+   "Source": "Paid Passes",
+   "name": "Yagyadev Arya",
+   "Company name": "Chashni by Kaliram",
+   "Designation:": "Director",
+   "email": "aryayagyadev@gmail.com",
+   "phoneNumber": 9212299958
+  },
+  {
+   "Source": "Paid Passes",
+   "name": "Nitin",
+   "Company name": "MAYURANSH HOSPITALITY PRIVATE LIMITED",
+   "email": "Nitin.Kashid@theicecreambakery.in",
+   "phoneNumber": "98197 75577"
+  },
+  {
+   "Source": "Paid Passes",
+   "name": "Nitin",
+   "Company name": "MAYURANSH HOSPITALITY PRIVATE LIMITED",
+   "email": "Nitin.Kashid@theicecreambakery.in",
+   "phoneNumber": "98197 75577"
+  },
+  {
+   "Source": "Paid Passes",
+   "name": "Nitin",
+   "Company name": "MAYURANSH HOSPITALITY PRIVATE LIMITED",
+   "email": "Nitin.Kashid@theicecreambakery.in",
+   "phoneNumber": "98197 75577"
+  },
+  {
+   "Source": "Paid Passes",
+   "name": "Sneha Shetty",
+   "Company name": "Anand vihar restaurant",
+   "email": "sushantshetty0109@gmail.com",
+   "phoneNumber": 7900102466
+  },
+  {
+   "Source": "Paid Passes",
+   "name": "Ajay Sharma",
+   "Company name": "Popcorn Magic Masala",
+   "email": "aaryaacaterers@gmail.com",
+   "phoneNumber": 9833913368
+  },
+  {
+   "Source": "Pro V Food",
+   "name": "Kavita Lobo",
+   "Company name": "Prov Foods Pvt Ltd",
+   "Designation:": "HR & Admin",
+   "email": "kavita@provfoods.com",
+   "phoneNumber": 9769211255
+  },
+  {
+   "Source": "Pro V Food",
+   "name": "Anshul Sadani",
+   "Company name": "Prov Foods Pvt Ltd",
+   "Designation:": "AVP - Trading",
+   "email": "anshul@provfoods.com",
+   "phoneNumber": 9320608186
+  },
+  {
+   "Source": "Pro V Food",
+   "name": "Swapnil Gharte",
+   "Company name": "Prov Foods Pvt Ltd",
+   "Designation:": "Office Assistant",
+   "email": "ecomm@provfoods.com",
+   "phoneNumber": 9899031138
+  },
+  {
+   "Source": "Leela",
+   "name": "Anuraag Bhatnagar",
+   "Company name": "Greetings from The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "CEO",
+   "email": "anuraag.bhatnagar@theleela.com",
+   "phoneNumber": 9765411001
+  },
+  {
+   "Source": "Leela",
+   "name": "Sharad Puri",
+   "Company name": "Greetings from The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Sr. Vice President – Sales & Distribution",
+   "email": "sharad.puri@theleela.com",
+   "phoneNumber": 8886061555
+  },
+  {
+   "Source": "Leela",
+   "name": "Megha Ajgaonkar",
+   "Company name": "Greetings from The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Associate Vice President Corporate Sales",
+   "email": "megha.ajgaonkar@theleela.com",
+   "phoneNumber": 9930991316
+  },
+  {
+   "Source": "Leela",
+   "name": "Azita Ramodiya Sakre",
+   "Company name": "Greetings from The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Area Director of Sales",
+   "email": "azita.ramodiya@theleela.com",
+   "phoneNumber": 9819667990
+  },
+  {
+   "Source": "Leela",
+   "name": "Anand Athavale",
+   "Company name": "Greetings from The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Director Sales & Marketing",
+   "email": "anand.athavale@theleela.com",
+   "phoneNumber": 9769688416
+  },
+  {
+   "Source": "Leela",
+   "name": "Guest 1",
+   "Company name": "Greetings from The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "TBC",
+   "email": "TBC",
+   "phoneNumber": "TBC"
+  },
+  {
+   "Source": "Leela",
+   "name": "Anmol Pancholy",
+   "Company name": "Greetings from The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Director Sales & Marketing",
+   "email": "anmol.pancholy@theleela.com",
+   "phoneNumber": 7411782443
+  },
+  {
+   "Source": "Leela",
+   "name": "Virender Razdan",
+   "Company name": "Greetings from The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "General Manager",
+   "email": "virender.razdan@theleela.com",
+   "phoneNumber": 9535871122
+  },
+  {
+   "Source": "MM",
+   "name": "Ms. Tabussum Modi",
+   "Company name": "Victor Tango Entertainment",
+   "Designation:": "Co - Founder",
+   "email": "tabassum@victortango.co.in",
+   "phoneNumber": "91- 9820700316"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Vaibhav Modi",
+   "Company name": "Victor Tango Entertainment",
+   "Designation:": "Co - Founder",
+   "email": "\n\nvaibhav@victortango.co.in",
+   "phoneNumber": "91- 9819600191"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Minhaj Ahmed",
+   "Company name": "TRP Takent Management Pvt Ltd",
+   "Designation:": "Director",
+   "email": "\n\nminhaj.events@gmail.com",
+   "phoneNumber": "91- 9370088488"
+  },
+  {
+   "Source": "MM",
+   "name": "Ms. Geeta Rawtani",
+   "Company name": "MyEventz",
+   "Designation:": "Founder",
+   "email": "\n\ngeeta@myeventz.co.in",
+   "phoneNumber": "91- 9820127570"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Sanil Shetty",
+   "Company name": "Suncity Hotels",
+   "Designation:": "Director",
+   "email": "\n\nsanil@thesuncityhotels.com",
+   "phoneNumber": "91- 9930977884"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Khushroo Kekobad",
+   "Company name": "LIVE ON STAGE ENTERTAINMENT PVT. LTD.",
+   "Designation:": "Director",
+   "email": "\n\nkhushroo@liveonstage.co.in",
+   "phoneNumber": "91- 9967066845"
+  },
+  {
+   "Source": "MM",
+   "name": "Ms. Sonika Chopra",
+   "Company name": "Freelancer",
+   "Designation:": "PROFESSIONAL EMCEE",
+   "email": "\n\nsupahsonix2020@gmail.com",
+   "phoneNumber": "91- 9819349390"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Anu Malik\n\nMrs. Anju Anu Malik\n\nMs. Anmol Anu Malik\n\nMs. Ada Anu Malik",
+   "Designation:": "Music Composer | Singer | Music Arranger | Score Composer |Music Director|.",
+   "email": "\nanumalik56@yahoo,com",
+   "phoneNumber": "91- 9821711112"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Azan Morani",
+   "Company name": "Amir Morani Fireworks LLP",
+   "Designation:": "Creative Director",
+   "email": "\n\nazanmorani@moranifireworks.com",
+   "phoneNumber": "91-9920932029"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Kiran Shetty",
+   "Company name": "Collective Heads EMSPL",
+   "Designation:": "Founder & Director",
+   "email": "\n\nkiran@collectiveheads.net",
+   "phoneNumber": "91- 9820309798"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Sachin Bagaria",
+   "Company name": "The Wedding Soul",
+   "Designation:": "Founder & CEO",
+   "email": "\n\nINFO@THEWEDDINGSOUL.COM",
+   "phoneNumber": "91- 9987029481"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Pratik Hemdev",
+   "Company name": "Yolo Entertainment and Weddings",
+   "Designation:": "Founder",
+   "email": "\n\npratik@yoloent.in",
+   "phoneNumber": "91- 9820424953"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Junaid Alam\n\nMs. Shehnaz Alam",
+   "Company name": "NA",
+   "Designation:": "Guest",
+   "email": "\n\nalamjunaid@gmail.com",
+   "phoneNumber": "91- 9820003313"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Akshay K Kanungo",
+   "Company name": "Ds Weddings & Events",
+   "Designation:": "Director",
+   "email": "\n\nkanungoakshay94@gmail.com",
+   "phoneNumber": "91- 9820863438"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Aashiq Jain",
+   "Company name": "Ds Weddings & Events",
+   "Designation:": "Co - Founder",
+   "email": "\n\naashiqj15@gmail.com",
+   "phoneNumber": "91- 9769521828"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Kaushik Mer",
+   "Company name": "Ds Weddings & Events",
+   "Designation:": "Co - Founder",
+   "email": "\n\nmerkaushik007@gmail.com",
+   "phoneNumber": "91- 9702345669"
+  },
+  {
+   "Source": "MM",
+   "name": "Dr. Hoshi Bhiwandiwalla",
+   "Company name": "NIEM The Institute of Event Management",
+   "Designation:": "Dean & Director",
+   "email": "\nhoshi@niemindia.com",
+   "phoneNumber": "91- 9321850208"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr Harsh Dangodra",
+   "Company name": "NIEM The Institute of Event Management",
+   "Designation:": "Senior Officer",
+   "email": "\n\nharshniem@gmail.com",
+   "phoneNumber": "91- 9321850208"
+  },
+  {
+   "Source": "MM",
+   "name": "Ms Harini Brahmbhatt",
+   "Company name": "NIEM The Institute of Event Management",
+   "Designation:": "Senior Coordinator",
+   "email": "\n\nbrahmbhattharini90@gmail.com",
+   "phoneNumber": "91- 9653392957"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Bhagwan Balani",
+   "Company name": "ITC Maratha",
+   "Designation:": "General Manager",
+   "email": "\nbhagwan.balani@itchotels.com",
+   "phoneNumber": "91- 9892001312"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Manmeet Singh Chandhoke",
+   "Company name": "Meet Bros",
+   "Designation:": "Founder",
+   "email": "\n\nmanmeetgulzar@gmail.com",
+   "phoneNumber": "91- 9820151734"
+  },
+  {
+   "Source": "MM",
+   "name": "Ms. Monika Patki",
+   "Company name": "ABC Digital UK",
+   "Designation:": "Senior VP",
+   "email": "\n\nMonikapatki75@gmail.com",
+   "phoneNumber": "91- 9892100760"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Harmeet Singh Chandhoke",
+   "email": "\n\nHarmeet@meetbroscorpp.com",
+   "phoneNumber": "91- 9833444339"
+  },
+  {
+   "Source": "MM",
+   "name": "Ms. Anamika Shah",
+   "email": "Ashyraas@gmail.com"
+  },
+  {
+   "Source": "MM",
+   "name": "Ms.Palak Sheth\n+\n(Vindu & Puneet)",
+   "Company name": "Shenaya Jewelz",
+   "Designation:": "Director",
+   "email": "\n\npalaksamirsheth@gmail.com",
+   "phoneNumber": "91- 9820154114"
+  },
+  {
+   "Source": "MM",
+   "name": "Dr. Niraj L Vora",
+   "email": "NLVdrnirajvora.com"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Sonu Sawhney\n+\nMs. Vaishali Sawhney",
+   "email": "rsawhney67@gmail.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Pradeep Zille",
+   "Company name": "Craftech 360",
+   "Designation:": "Co-founder & CBO",
+   "email": "\npradeep@craftech360.com",
+   "phoneNumber": "91 9964299111 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Jueta Hemdev",
+   "Company name": "YOLO Entertainment",
+   "Designation:": "Founder & CEO",
+   "email": "jueta@yoloent.in"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Pratik Hemdev",
+   "Company name": "YOLO Entertainment",
+   "Designation:": "Founder & CEO",
+   "email": "pratik@yoloent.in"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Bhavnesh Sawhney",
+   "Company name": "FB Celebration",
+   "Designation:": "Co-Founder",
+   "email": "Bhavnesh@fbcelebration.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Sushil Wadhwa",
+   "Company name": "Platinum World Grroup",
+   "Designation:": "Founder & CMD",
+   "email": "sushil@platinumworld.net"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Prateek Tandon",
+   "Company name": "Copper Events",
+   "Designation:": "Co-Founder",
+   "email": "prateek@coppercomm.in"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Zuzer Lucknowala",
+   "Company name": "Party Cruisers Ltd.",
+   "Designation:": "Chairman & CEO",
+   "email": "zuzer@partycruisersindia.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Saurabh Khurana",
+   "Company name": "LaqshyaLive Experiences",
+   "Designation:": "Co-Founder & CEO",
+   "email": "saurabh.khurana@laqshyaliveex.com",
+   "phoneNumber": 9820900612
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Hemant Matai",
+   "Company name": "Trinity Entertainment And Strategic Consultants",
+   "Designation:": "Founder, Managing Director",
+   "email": "\n\nhemant.m@trinityentertainment.in",
+   "phoneNumber": "91 9820828345"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Fahad Chowdhary",
+   "Company name": "Trinity Entertainment And Strategic Consultants",
+   "Designation:": "Managing Director",
+   "email": "\nfahad.c@trinityentertainment.in",
+   "phoneNumber": "91 9967869723"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Vismay Chokshi",
+   "Company name": "Trinity Entertainment And Strategic Consultants",
+   "Designation:": "Managing Director",
+   "email": "\nvismay.c@trinityentertainment.in",
+   "phoneNumber": "91 9920058268"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Achint Nag (+2)",
+   "Company name": "Krayonz Entertainment",
+   "Designation:": "Founder",
+   "email": "krayonzentertainmet@gmail.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Kenisha Awasthi",
+   "Designation:": "EMCEE",
+   "email": "contact.kenishaawasthi@gmail.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Aditya Motwane",
+   "Company name": "Motwane Entertainment And Weddings",
+   "Designation:": "Founder",
+   "email": "aditya@motwane.co"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Tasleem Zaidi",
+   "Company name": "ANANTA HOTELS AMD RESORTS",
+   "Designation:": "Director Of Sales",
+   "email": "\ndos.mumbai@anantahotels.com",
+   "phoneNumber": "91- 9594773344\n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Kaveri Vij",
+   "Company name": "Designer Events Inc",
+   "Designation:": "Co-Founder",
+   "email": "\nkaveri@designereventsinc.co.in",
+   "phoneNumber": "91 - 9958844363"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Priti .S. Sidhwaani",
+   "Company name": "DreamzKraft The Wedding Company",
+   "Designation:": "Founder & CEO",
+   "email": "\npritisidhwani@dreamzkraft.com",
+   "phoneNumber": 919820287040
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Sundeep. C. Sidhwaani",
+   "Company name": "DreamzKraft The Wedding Company",
+   "Designation:": "Founder & Director",
+   "email": "\nsundeep@dreamzkraft.com",
+   "phoneNumber": "91 9820041510"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Nehal Shah",
+   "Company name": "Awoke Solutions",
+   "Designation:": "Founder & Director",
+   "email": "nehal_awoke@awakening-experiences.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Aarti Manocha",
+   "Company name": "Milestones to Memories",
+   "Designation:": "Founder",
+   "email": "aarti@mtom.co.in"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Siddharth Bavishi",
+   "Company name": "The Wedding Trunk",
+   "Designation:": "Founder",
+   "email": "\nsiddharth@theweddingtrunk.com",
+   "phoneNumber": "91 9967444443 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Pushkar Kumar",
+   "Company name": "Gurutva Events & Wedding planner",
+   "Designation:": "Director",
+   "email": "THEPUSHKARBIZ@GMAIL.COM\n\n",
+   "phoneNumber": "91- 8709363167"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Khyati Kava",
+   "Company name": "Talking Bird Solutions",
+   "Designation:": "Founder & Artist",
+   "email": "\nkavakhyati@gmail.com",
+   "phoneNumber": "91- 9833377265"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Aliya Hasal",
+   "Company name": "Drumcafe",
+   "Designation:": "Founder",
+   "email": "\naliya@drumcafe.com",
+   "phoneNumber": "91- 9833246696"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Vinod Hasal",
+   "Company name": "Drumcafe",
+   "Designation:": "Director & CEO",
+   "email": "\nvinod@drumcafe.com",
+   "phoneNumber": "91- 9820536696"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Tanaz Basur",
+   "Company name": "Wedding planning Consultant",
+   "email": "\nbtnaz@gmail.com",
+   "phoneNumber": "91- 9820155974"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Shefali Saxena",
+   "Company name": "Unwind Communications",
+   "Designation:": "Artist & Producers",
+   "email": "\nshefalisaxenaoffice@gmail.com",
+   "phoneNumber": "91- 9920066848"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ketan Lotia",
+   "Company name": "Miracle Magic",
+   "Designation:": "Proprietor",
+   "email": "\nketan.lotia@gmail.com",
+   "phoneNumber": "91- 982047824"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Ankita Fatak",
+   "Designation:": "Anchor",
+   "email": "\nAnkita.patel1806@gmail.com",
+   "phoneNumber": "91- 9699070785 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Amol Vijay Nile",
+   "Company name": "The Hype Creator",
+   "Designation:": "EMCEE \/ Anchor",
+   "email": "\namolnile.an@gmail.com",
+   "phoneNumber": "91- 9769989897\/ 7700929897"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Rupali Suri",
+   "Designation:": "Artist",
+   "email": "\nSurirupali07@gmail.com",
+   "phoneNumber": "91- 9820402063"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Vijay Cavale",
+   "Company name": "Enjin Experiences Pvt Ltd",
+   "Designation:": "CEO",
+   "email": "\nvijay@eventzgenie.co.in\n\nvijaycavale18@gmail.com",
+   "phoneNumber": "91- 9920111772"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Everest Rodrigues",
+   "Company name": "Teamwork",
+   "Designation:": "Founder",
+   "email": "\neverestrodrigues.teamwork@gmail.com",
+   "phoneNumber": "91- 9821127494"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Meghna Rodrigues",
+   "Company name": "Teamwork",
+   "Designation:": "Founder",
+   "email": "\neverestrodrigues.teamwork@gmail.com",
+   "phoneNumber": "91- 9821016319 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Keyur Shah",
+   "Company name": "Usually Unusual Entertainment",
+   "Designation:": "Founder & Director",
+   "email": "keyur@u2entertainment.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Forum Mehta",
+   "Company name": "Vritti Solutions Limited",
+   "email": "forum.mehta@vritti.co.in"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Harjas Singh",
+   "Company name": "Cocobae",
+   "Designation:": "Founder & CEO",
+   "email": "info@cocobae.in"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Avishkar Tendle",
+   "Company name": "Natura Outdoor Education & Training Solutions",
+   "Designation:": "Founder & Director",
+   "email": "avishkar@natura.net.in"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Pooja Bhoir",
+   "Company name": "The Shaadi Casa",
+   "Designation:": "Co-Founder",
+   "email": "\npooja.theshaadicasa@gmail.com",
+   "phoneNumber": "91- 7718801705"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Ankita Palan",
+   "Company name": "The Shaadi Casa",
+   "Designation:": "Co-Founder",
+   "email": "\nankita.theshaadicasa@gmail.com",
+   "phoneNumber": "91- 9821772750"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Christopher Pereira",
+   "Company name": "Occasionz Events Pvt Ltd",
+   "Designation:": "Managing Director",
+   "email": "chris@occasionzevents.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Sneha Shetty",
+   "Company name": "Interior Designer Sneha Shetty",
+   "email": "\nshettysneha680@gmail.com",
+   "phoneNumber": "91- 7900102466"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Umesh Shah",
+   "Company name": "Orient Technologies Ltd",
+   "Designation:": "Director",
+   "email": "\nUmeshshah@orientindia.net",
+   "phoneNumber": "91- 9769008811"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Sejal Shah",
+   "Company name": "Orient Technologies Ltd",
+   "Designation:": "Director",
+   "email": "\nsejalorient195@gmail.com",
+   "phoneNumber": "91- 9769008810"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Rajesh Bheda",
+   "Company name": "Talakshi Lalji & Co",
+   "Designation:": "Partner",
+   "email": "rajesh_bheda@yahoo.com",
+   "phoneNumber": "91- 9821076289 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Richa Mohnani",
+   "Company name": "Vivekanand Institute Of Hotel & Tourism. Rajkot (Gujarat)",
+   "Designation:": "Director",
+   "email": "\ndirector@vihtm.com",
+   "phoneNumber": "91- 8980888899"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Mohit Mohnani",
+   "Company name": "Vivekanand Institute Of Hotel & Tourism. Rajkot (Gujarat)",
+   "Designation:": "Director",
+   "email": "\ndirector@vihtm.com",
+   "phoneNumber": "91- 8866667777"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Aarti Bheda",
+   "email": "\naarti_bhedaaarti@gmail.com",
+   "phoneNumber": "91- 9821690087 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Shaju Ignatius",
+   "Company name": "The Ignite Enterprise",
+   "Designation:": "Founder & Director",
+   "email": "\nshaju@igniteinfo.in",
+   "phoneNumber": "91- 9820323399"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mrs. Neelu Ignatius",
+   "Company name": "The Ignite Infotainment Pvt Ltd",
+   "Designation:": "Director",
+   "email": "\nneelu.ignatius@gmail.com",
+   "phoneNumber": "91- 9820461093 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Sweta Agnihotri",
+   "Company name": "Reliance Entertainment",
+   "Designation:": "CEO - Content Syndication",
+   "email": "\nAgnihotrisweta@gmail.com",
+   "phoneNumber": "91- 9320719612"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Anuroop Khare",
+   "Company name": "Vritti Solutions Ltd",
+   "Designation:": "Deputy General Manager",
+   "email": "\nanuroop.khare@vritti.co.in",
+   "phoneNumber": "91- 8390900611 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Vikas Agnihotri",
+   "Company name": "FirstCry (BrainBees), GlobalBees & InMobi",
+   "Designation:": "Board Member",
+   "email": "\nvagnihotri3@gmail.com",
+   "phoneNumber": 919004902160
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr, Rikshit Parsan",
+   "Company name": "Ace Beveragez",
+   "Designation:": "Director",
+   "email": "\nrparsan@gmail.com",
+   "phoneNumber": "91- 9833229350 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Rashi Parsan",
+   "Company name": "Aditya Birla Digital Fashion Ventures Limited",
+   "Designation:": "Legal Associates",
+   "email": "\nrashi.tater@tmrw.in",
+   "phoneNumber": "91- 9675613075 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Mitali Jain",
+   "Company name": "Jjust Music Label Pvt Ltd",
+   "Designation:": "Lead Jjust Kids",
+   "email": "\nmitali@jjustmusic.com",
+   "phoneNumber": "91- 9920743426"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Piyush Malhotra",
+   "Company name": "Piyush Malhotra Dance Studio",
+   "Designation:": "Founder & Director",
+   "email": "\npmds23@gmail.com",
+   "phoneNumber": "91- 9822425427 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Imran Qureshi",
+   "Company name": "DreamzKraft The Wedding Company",
+   "Designation:": "Director Of Planning & Sales",
+   "email": "\nimran@dreamzkraft.com",
+   "phoneNumber": "91- 9820439136"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Saritha Gopalkrishnan",
+   "Company name": "MBH",
+   "Designation:": "Project Manager",
+   "email": "\nsaritha@mbharch.com",
+   "phoneNumber": "91- 9833455711"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Anup Kadam",
+   "Company name": "Netflix",
+   "Designation:": "Executive",
+   "email": "\nanupvijaykadam@gmail.com",
+   "phoneNumber": "91- 9167889678 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Jay Patel",
+   "Company name": "Air India Express",
+   "Designation:": "Captain",
+   "email": "\njay72178@gmail.com",
+   "phoneNumber": "91- 9920055711"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Anupama Kinagi",
+   "Company name": "Anipama Kinagi Designs",
+   "Designation:": "Graphic Designer",
+   "email": "\nanupamakinagi@gmail.com",
+   "phoneNumber": "91- 9819015519 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Rio Castellino",
+   "Company name": "Teams R Us",
+   "Designation:": "Founder",
+   "email": "\nitsriocas@gmail.com",
+   "phoneNumber": "91- 9820026299 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Meera Castellino",
+   "Company name": "Sony Pictures India",
+   "Designation:": "HR",
+   "email": "\nitsmeecas@gmail.com",
+   "phoneNumber": "91- 9820546686 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Jagmeeet Sethi",
+   "Company name": "JSS Entertainment",
+   "Designation:": "Founder",
+   "email": "\njssentertainment@gmail.com",
+   "phoneNumber": "91- 9967287867 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Shanaya Udwadia",
+   "Company name": "Double S",
+   "Designation:": "Director",
+   "email": "\nshanaya@double-s.in",
+   "phoneNumber": "91- 9833568957 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Tina Tharwani",
+   "Company name": "Shaadi Squad",
+   "Designation:": "Co-founder | Head of Business Development & Client Servicing|",
+   "email": "\ndigisha@dspr.in",
+   "phoneNumber": "91- 9820685171"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Ronicka Kandhari",
+   "Company name": "Ronicka Khandhari Photography",
+   "Designation:": "Founder",
+   "email": "\nronickakhandhari@gmail.com",
+   "phoneNumber": "91- 9811219695 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Jayanthi Shetty",
+   "Company name": "Interior Designer Sneha Shetty",
+   "email": "\njshetty591@gmail.com",
+   "phoneNumber": "91- 7506843736"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms.Tulasha Pillai",
+   "Company name": "Conrad Hotels",
+   "Designation:": "Director Of Conference & Events",
+   "email": "\ntulasha.pillai@conradhotels.com",
+   "phoneNumber": "91- 9920469026 \n\n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Anand Oberoi",
+   "Company name": "Oberoi IBC",
+   "Designation:": "Managing Director",
+   "email": "\nanandswarupoberoi@gmail.com",
+   "phoneNumber": "91- 9819338888"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Shikhaa Oberoi",
+   "Company name": "Oberoi IBC",
+   "Designation:": "Creative Director",
+   "email": "\nadishikhaa@gmail.com",
+   "phoneNumber": "91- 9820125505"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Charu Seth",
+   "Company name": "Thrive Transform",
+   "Designation:": "CEO",
+   "email": "1(408) 712-5394",
+   "phoneNumber": "1(408) 712-5394"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ankit Seth",
+   "Company name": "Opulence by Chef Bhasin",
+   "Designation:": "Sales and Marketing Director",
+   "email": "91- 8860000200\n\ncorporate@cherishhospitality.in",
+   "phoneNumber": "91- 8860000200\n\n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Akshay Banka",
+   "Company name": "KPMG",
+   "Designation:": "Manager",
+   "email": "akshaybanka@kpmg.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Sucheta Sarwan",
+   "Company name": "KPMG",
+   "Designation:": "Consultant | Auditor",
+   "email": "suchetasarwan@kpmg.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Aishwarya Ganesh",
+   "Company name": "KPMG",
+   "Designation:": "Assistant Manager",
+   "email": "Aishwaryaganesh1@kpmg.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Samiksha Shetty",
+   "Company name": "KPMG",
+   "Designation:": "Analyst",
+   "email": "samikshashetty2@kpmg.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Naveenn Kumar Singh",
+   "Company name": "Safecure Service Pvt Ltd",
+   "email": "\nnaveennkumar.singh@safecure.in",
+   "phoneNumber": "91- 9769340666"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Shailendra Pandey",
+   "Company name": "Safecure Service Pvt Ltd",
+   "email": "\n\nshailendra@safecure.in",
+   "phoneNumber": "91- 9967302227"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Dr.Rinkle Sangoi Kapoor",
+   "Company name": "Éclat",
+   "Designation:": "Founding Director",
+   "email": "\nRinkle@eclatindia.com",
+   "phoneNumber": "91- 96643 23929"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ankit Kapoor",
+   "Company name": "Éclat",
+   "Designation:": "Director",
+   "email": "\nAnkit@eclatindia.com",
+   "phoneNumber": "91- 90223 66404"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Fatima Sham Mahimwala",
+   "Company name": "CocoCart",
+   "Designation:": "Country Head",
+   "email": "\nFatima.sm@cococart.com",
+   "phoneNumber": "91- 9833370176"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Nikul Jalan",
+   "Company name": "Gupta Raj & Co",
+   "Designation:": "Partner",
+   "email": "\nnikuljalan@yahoo.com",
+   "phoneNumber": "91- 9821636098"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Kanupriya Jalan",
+   "Company name": "Gupta Raj & Co",
+   "Designation:": "Partner",
+   "email": "\npriyajalan@finactt.com",
+   "phoneNumber": "91- 9870099098"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Tejas Shah",
+   "Company name": "King Metal Works",
+   "Designation:": "Partner",
+   "email": "\ntejashkm@gmail.com",
+   "phoneNumber": "91- 9820841444 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Jainy Shah",
+   "Company name": "King Metal Works",
+   "Designation:": "Partner",
+   "email": "\ntejashkm@gmail.com",
+   "phoneNumber": "91- 9820712263 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Pankaj Bhansali",
+   "Company name": "Eqaro Guarantees",
+   "Designation:": "Co - Founder & Chief Operating Officer",
+   "email": "\nbhansalipankaj@gmail.com",
+   "phoneNumber": "91- 9867566999 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Roopali bhansali",
+   "Company name": "Anjali lifestyle",
+   "Designation:": "CEO",
+   "email": "\nroopalibhansali@gmail.com",
+   "phoneNumber": "91- 9820521221 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Nandini bhansali",
+   "Company name": "Anjali lifestyle",
+   "Designation:": "VP",
+   "email": "\nnandinibhansali@gmail.com",
+   "phoneNumber": "91- 9820621221 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Neetika choudhary",
+   "Company name": "Disney star India",
+   "Designation:": "Director , consumer strategy and innovation",
+   "email": "\nNeetika.Choudhary@disney.com\n",
+   "phoneNumber": "91- 9873934684 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Shalini Jain",
+   "Company name": "Kotton Bar",
+   "Designation:": "Proprietor",
+   "email": "\nShalz48.sj@gmail.com",
+   "phoneNumber": "91- 9867182220 \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Pankaj Kumar",
+   "Company name": "Aurika Mumbai Skycity",
+   "Designation:": "Director Of Operations",
+   "email": "\ndirops.amb1@lemontreehotels.com",
+   "phoneNumber": "91- 9867078884. \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Harkaran Singh",
+   "Company name": "Aurika Mumbai Skycity",
+   "Designation:": "General Manager",
+   "email": "\nGM.amb1@lemontreehotels.com",
+   "phoneNumber": "91- 7044074580. \n"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Aditya Bajaj\n\nMs. Nishi Bajaj\n\nMr. Aarush Bajaj",
+   "Company name": "Bon Evento",
+   "Designation:": "Co - Founder\n\nCo - Founder",
+   "email": "connect@bonevento.com\n\n",
+   "phoneNumber": "91- 9920261283"
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Rashmi Uday Singh",
+   "Company name": "Founder",
+   "Designation:": "Hospitality Hope",
+   "email": "rashmiudaysingh@gmail.com",
+   "phoneNumber": 9833392000
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Nikhila Palat",
+   "Company name": "CEO",
+   "Designation:": "Katalyst Reputation Management",
+   "email": "nikhilapalat@gmail.com",
+   "phoneNumber": 9820033396
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Aditi Dugar",
+   "Company name": "Director",
+   "Designation:": "Sage & Saffron",
+   "email": "Aditi@sagesaffron.in",
+   "phoneNumber": 9920024000
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Chef Vicky Ratnani",
+   "Designation:": "Speak Burgers",
+   "email": "vicky.ratnani@gmail.com",
+   "phoneNumber": 9987900106
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Gautam Anand",
+   "Company name": "Executive Vice President",
+   "Designation:": "ITC Hotels",
+   "email": "gautam_15jul@yahoo.co.in",
+   "phoneNumber": 9871196060
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Zorawar Kalra",
+   "Company name": "Founder",
+   "Designation:": "Massive Restaraunts",
+   "email": "Zorawar.kalra@massiverestaurants.com",
+   "phoneNumber": 9810185919
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Amit Bagga",
+   "Company name": "Co Founder & CEO",
+   "Designation:": "Daryaganj Restaurant",
+   "email": "amit@daryaganj.com",
+   "phoneNumber": 9810015120
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Chef Romy Gill",
+   "Company name": "MBE- author, Broadcaster",
+   "email": "romygill08@gmail.com",
+   "phoneNumber": 447402931516
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Arindam Chakraborty",
+   "Company name": "COO & Business Head",
+   "Designation:": "Catering Collective",
+   "email": "arindam.chakraborty@cateringcollective.in",
+   "phoneNumber": 9152215366
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Karan Tanna",
+   "Company name": "Founder & CEO",
+   "Designation:": "Ghost Kitchens India",
+   "email": "Kt@ghostkitchensindia.com",
+   "phoneNumber": 8291877345
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Parthip Thyagrajan",
+   "Company name": "CEO",
+   "Designation:": "WeddingSutra",
+   "email": "parthip@weddingsutra.com",
+   "phoneNumber": 9867086914
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Chef Kunal Kapur",
+   "email": "chefkunal@gmail.com",
+   "phoneNumber": 9717596161
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Kunal Vijayakar",
+   "Company name": "Broadcaster, YouTuber, Food-Writer and Actor",
+   "email": "kunal.vijayakar@gmail.com",
+   "phoneNumber": 9821666644
+  },
+  {
+   "Source": "SPEAKERS",
+   "name": "Chef Shipra Khanna",
+   "email": "khannashipra20@gmail.com",
+   "phoneNumber": 9619126397
+  },
+  {
+   "Source": "MM",
+   "name": "Ms. Priyanka Chakraborty",
+   "Company name": "Pour N Cradle",
+   "Designation:": "Founder",
+   "email": "Prriyanka27@yahoo.co.in",
+   "phoneNumber": "91- 9920376485"
+  },
+  {
+   "Source": "Wonderchef",
+   "name": "Ravi Saxena",
+   "Company name": "Co-founder & CEO",
+   "email": "ravi@wonderchef.in"
+  },
+  {
+   "Source": "Wonderchef",
+   "name": "Nimish Talsania",
+   "Company name": "Head - Corporate Gifting & Exports",
+   "email": "nimish.talsania@wonderchef.in"
+  },
+  {
+   "Source": "Wonderchef",
+   "name": "Shilpa Girdhar",
+   "Company name": "Manager - Corporate Gifting",
+   "email": "shilpa.girdhar@wonderchef.in"
+  },
+  {
+   "Source": "Wonderchef",
+   "name": "Payal Chavan",
+   "Company name": "Head - HR",
+   "email": "payal.chavan@wonderchef.in"
+  },
+  {
+   "Source": "Wonderchef",
+   "name": "Shimali Goel",
+   "Company name": "National Trainer",
+   "email": "shimali@wonderchef.in"
+  },
+  {
+   "Source": "Wonderchef",
+   "name": "Amit Tilekar",
+   "Company name": "Chief Marketing Officer",
+   "email": "amit.tilekar@wonderchef.in"
+  },
+  {
+   "Source": "Wonderchef",
+   "name": "Asif Pathan",
+   "Company name": "Trade Marketing Manager",
+   "email": "asif.pathan@wonderchef.in"
+  },
+  {
+   "Source": "Wonderchef",
+   "name": "Jyoti Maity",
+   "Company name": "Chef",
+   "email": "jyoti.maity@wonderchef.in"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Saurabh Singhal",
+   "Company name": "Fairmont Jaipur",
+   "Designation:": "Sales & Marketing",
+   "email": "saurabh.singhal@fairmont.com",
+   "phoneNumber": "91- 9833429349"
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Deepak Bassi",
+   "Company name": "Foodlink F&B Holdings India Pvt. Ltd.",
+   "Designation:": "Business Head",
+   "email": "deepak.bassi@foodlink.in",
+   "phoneNumber": "98675 95093"
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Deliz Manthanam",
+   "Company name": "Foodlink F&B Holdings India Pvt. Ltd.",
+   "Designation:": "Director of Sales",
+   "email": "dee@foodlink.in",
+   "phoneNumber": "98203 39793"
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Priyanka Bhambhani",
+   "Company name": "Foodlink F&B Holdings India Pvt. Ltd.",
+   "Designation:": "Vice President - Strategic Growth",
+   "email": "priyanka.bhambhani@foodlink.in",
+   "phoneNumber": "73399 83189"
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Samrudhi More",
+   "Company name": "Foodlink F&B Holdings India Pvt. Ltd.",
+   "Designation:": "Sales Manager",
+   "email": "samrudhi.more@foodlink.in",
+   "phoneNumber": "98929 63579"
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Sachin Wagh",
+   "Company name": "Foodlink F&B Holdings India Pvt. Ltd.",
+   "Designation:": "Executive Chef",
+   "email": "sachin.wagh@foodlink.in",
+   "phoneNumber": "84548 99490"
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Harshal Karkhanis",
+   "Company name": "Foodlink F&B Holdings India Pvt. Ltd.",
+   "Designation:": "Associate Director- Sales",
+   "email": "harshal.karkhanis@foodlink.in",
+   "phoneNumber": "98192 69997"
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Rachit Thakker",
+   "Company name": "Foodlink F&B Holdings India Pvt. Ltd.",
+   "Designation:": "AGM - BNC Operations",
+   "email": "rachit.thakkar@foodlink.in",
+   "phoneNumber": "96194 72693"
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Mohit Vichare",
+   "Company name": "Foodlink F&B Holdings India Pvt. Ltd.",
+   "Designation:": "Director of Opration",
+   "email": "mohit.vichare@foodlink.in",
+   "phoneNumber": "98199 47503"
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Siddesh Rokade",
+   "Company name": "Foodlink F&B Holdings India Pvt. Ltd.",
+   "Designation:": "Chef de cuisine",
+   "email": "priyankabhambhani@gmail.com",
+   "phoneNumber": "98928 63045"
+  },
+  {
+   "Source": "Parthip Thyagarajan",
+   "name": "Shaan V Gidwani",
+   "Company name": "Artist \/ Dj",
+   "Designation:": "proprietor",
+   "email": "shannvgidwani@gmail.com",
+   "phoneNumber": 919967061281
+  },
+  {
+   "Source": "Audi Mumbai west",
+   "name": "JAGMEET SETHI",
+   "Company name": "JSS ENTERTAINMENT",
+   "Designation:": "DIRECTOR",
+   "email": "jssentertainment1@gmail.com",
+   "phoneNumber": 9967287867
+  },
+  {
+   "Source": "Audi Mumbai west",
+   "name": "JOSEPH JOSE",
+   "Company name": "OMEGA HOSPITALITY",
+   "Designation:": "DIRECTOR",
+   "email": "Olive4events@gmail.com",
+   "phoneNumber": 9594200200
+  },
+  {
+   "Source": "Audi Mumbai west",
+   "name": "Vaibhav mastakar",
+   "Company name": "Mastakar auto",
+   "Designation:": "Director",
+   "email": "mastakarv@gmail.com",
+   "phoneNumber": "88790 28090"
+  },
+  {
+   "Source": "Audi Mumbai west",
+   "name": "Ekta Mastakar",
+   "Company name": "Mastakar auto",
+   "Designation:": "managing director",
+   "email": "mastakarv@gmail.com",
+   "phoneNumber": "88790 28090"
+  },
+  {
+   "Source": "Audi Mumbai west",
+   "name": "Damandeep",
+   "Company name": "Throttle",
+   "Designation:": "managing director",
+   "email": "Damandeip@gmail.com",
+   "phoneNumber": "96192 57543"
+  },
+  {
+   "Source": "Audi Mumbai west",
+   "name": "Niegel Daniel",
+   "Company name": "Throttle",
+   "email": "niegeldaniel@gmail.com",
+   "phoneNumber": "96192 57543"
+  },
+  {
+   "Source": "Audi Mumbai west",
+   "name": "Mazhar Ansari",
+   "Company name": "Audi Mumbai west",
+   "Designation:": "General Marketing Manager",
+   "email": "Mazhar.ansari@audimumbaiwest.in",
+   "phoneNumber": 7738392266
+  },
+  {
+   "Source": "Audi Mumbai west",
+   "name": "Nimish Puradkar",
+   "Company name": "Audi Mumbai west",
+   "Designation:": "Ass. Marketing Manager",
+   "email": "Nimish.puradkar@audimumbaiwest.in",
+   "phoneNumber": 8976977752
+  },
+  {
+   "Source": "Audi Mumbai west",
+   "name": "Nandini Mangaonkar",
+   "Company name": "Audi Mumbai west",
+   "Designation:": "Team Marketing",
+   "email": "Audimumbaiwest.exec@gmail.com",
+   "phoneNumber": 7400458314
+  },
+  {
+   "Source": "MM",
+   "name": "Mrs . Lena Aggarwal\n\nMs. Ishita Aggarwal\n\nMrs Simran Aggarwal Tangri\n",
+   "email": "lenaaggarwal@gmail.com"
+  },
+  {
+   "Source": "MM",
+   "name": "Ms. Nadia Hayat \n\nMs. Shardha Gaikwad",
+   "email": "Olailanails@yahoo.com"
+  },
+  {
+   "Source": "Reema Sanghavi",
+   "name": "Monica Singh",
+   "email": "monicashahani@hotmail.com",
+   "phoneNumber": 9867200024
+  },
+  {
+   "Source": "Reema Sanghavi",
+   "name": "Mohinder Singh",
+   "Company name": "Enam AMC",
+   "Designation:": "Head Distribution and Sales\n",
+   "email": "mohinder167@yahoo.co.in",
+   "phoneNumber": 9819710106
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Kunal Pahwa",
+   "Company name": "ITC Grand Central",
+   "Designation:": "General Manager",
+   "email": "Kunal.Pahwa @itchotels.in",
+   "phoneNumber": "91- 88908 77772"
+  },
+  {
+   "Source": "SK",
+   "name": "Chandir Gidwani\n",
+   "email": "c.gidwani@centrum.co.in\n\n",
+   "phoneNumber": 9821033426
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Aman Bharti",
+   "Company name": "Foodfascination",
+   "Designation:": "Food Blogger, Chef",
+   "email": "amanbharti720@gmail.com",
+   "phoneNumber": 9122334696
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ramesh Parmar",
+   "Company name": "Foodfascination",
+   "Designation:": "Food Blogger, Chef, photographer",
+   "email": "amanbharti720@gmail.com",
+   "phoneNumber": 9654885949
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Sanjay Khullar (+3 Guest)",
+   "Company name": "Seasons Group",
+   "email": "Sanjaykhullar@gmail.com",
+   "phoneNumber": 9810032774
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Karishma Kumar",
+   "Company name": "Infinia Inc",
+   "Designation:": "CEO",
+   "email": "karisma77@gmail.com",
+   "phoneNumber": 9820531122
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Gaurav Kumar",
+   "Company name": "Infinia Inc",
+   "Designation:": "Proprietor",
+   "email": "gaurav@infiniainc.in",
+   "phoneNumber": 9769636605
+  },
+  {
+   "Source": "SK",
+   "name": "Nilesh Limaye",
+   "email": "nilesh2411@live.com"
+  },
+  {
+   "Source": "SK",
+   "name": "Ms Radhika Nandey",
+   "email": "nilesh2411@live.com"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Aslam Khan (+ 4 )",
+   "Company name": "Panache wedding productions",
+   "email": "aslamkhan747@gmail.com",
+   "phoneNumber": 9246575733
+  },
+  {
+   "Source": "MM",
+   "name": "Ms. Yasmin morani\nMr. Aly morani\nMr. K0arim premji\nMs. SOPHIA premji\nMs.Noureen morani\nMs. Athina morani",
+   "email": "Moranialy@gmail.com"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Vinay Bhasin & Ms. Kiran Bawa",
+   "email": "vinayibhasin@yahoo.com"
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Chetan Purohit (+ Trupti Purohit)",
+   "Company name": "Indian summer",
+   "Designation:": "Restaurateur",
+   "email": "Chetankp@hotmail.com",
+   "phoneNumber": 9821046360
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Harshad Chavan",
+   "Company name": "TOAST EVENTS PVT. LTD.",
+   "Designation:": "Managing Director",
+   "email": "harshad@toastevents.in"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Aayushman Sinha",
+   "Company name": "REPRESENT",
+   "Designation:": "Founder & CEO",
+   "email": "aayushman@representmgmt.in",
+   "phoneNumber": 9833556650
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Anupam Bansal",
+   "Company name": "Liberty Shoes",
+   "Designation:": "Director Retail Sales",
+   "email": "Anupam@libertyshoes.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Atul Barot",
+   "email": "atulbarot 6@gmail.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ashwin Rajpal",
+   "email": "ashwinhrajpal@gmail.com",
+   "phoneNumber": 9821147417
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ajay Mittal",
+   "Company name": "Ascent Capital",
+   "Designation:": "Director",
+   "email": "ajay.m@ascentcapital.in",
+   "phoneNumber": "91-9845165201"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ahmad Faraz",
+   "Company name": "Endorphins Entertainment Pvt Ltd",
+   "Designation:": "CEO",
+   "email": "ahmad@endorphinsentertainment.com",
+   "phoneNumber": 9871464602
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Anurag rao",
+   "Company name": "Chain Reactor",
+   "Designation:": "CEO",
+   "email": "anurag@chainreactor.in"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Deepalakshami chabbria",
+   "email": "Dchabbria13@gmail.Com",
+   "phoneNumber": 9820341321
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ketan Phatak",
+   "Company name": "Reliance Industries Limited",
+   "Designation:": "Sr.Manager Business Development",
+   "email": "ketan.phatak@ril.com",
+   "phoneNumber": 7977097077
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Chinmay Dhuwali",
+   "email": "Chinmay.d12@gmail.com",
+   "phoneNumber": 9892462995
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Deepak Thandassery",
+   "email": "deepak@vinsanworld.com",
+   "phoneNumber": 9819900118
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Dolly Kanjani",
+   "email": "dollykanjani@gmail.com",
+   "phoneNumber": 9920296119
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Vasant Bhandari",
+   "Company name": "United Breweries",
+   "Designation:": "Event Head",
+   "email": "vbhandari6666@gmail.com",
+   "phoneNumber": 9820090020
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Tanmay Nikam",
+   "email": "tannik007@gmail.com",
+   "phoneNumber": "91 88981 15353"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Darshan sheth",
+   "email": "dars1977@gmail.com",
+   "phoneNumber": 9820322993
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Namrata Sheth",
+   "email": "namsheth79@gmail.com",
+   "phoneNumber": 9930479886
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Bhaskar Sharma\n\nMs. Poonam Sharma\n",
+   "Company name": "Red Bull India",
+   "Designation:": "CEO",
+   "email": "Bhaskar.sharma@redbull.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Vaibhav Mota",
+   "Company name": "Believe Live",
+   "Designation:": "Head",
+   "email": "Vaibhavmota@gmail.com",
+   "phoneNumber": 9930881107
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mrs. Henna Mota",
+   "Company name": "EVA Live",
+   "Designation:": "Head - Live Events & ConcertsHead - Live Events & Concerts",
+   "email": "Hennakhona1@gmail.com",
+   "phoneNumber": 9920944475
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Hemant Kale",
+   "Company name": "Swaaha Weddings & Experiences",
+   "Designation:": "Founder",
+   "email": "hemant@swaaha.com",
+   "phoneNumber": 9819001364
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Hemal Solanki Bhagwat",
+   "Company name": "Mercury Integrated",
+   "Designation:": "Founder & Director",
+   "email": "hemal@mercuryintegrated.com",
+   "phoneNumber": 9820099780
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Chaitali Barot",
+   "email": "cdoshi1@gmail.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ajay Prajapati",
+   "Company name": "Sheer Event Management Pvt. Ltd.",
+   "Designation:": "Founder & CMD",
+   "email": "ajay.sheer@gmail.com",
+   "phoneNumber": 9820226795
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Nagendra Rathor",
+   "email": "nagendra139@rediffmail.com",
+   "phoneNumber": 9987459999
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Komal Kothari",
+   "email": "eventskomal@gmail.com"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ketan Shah",
+   "email": "Kketanhs@gmail.com",
+   "phoneNumber": 9821526876
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Kashish Seetlani",
+   "email": "kashishseetlani@gmail.com",
+   "phoneNumber": 9893954594
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Sujata Krishnan",
+   "email": "sujata.saroja@gmail.com \n\nsujata.krishnan@itchotels.in",
+   "phoneNumber": 9920605554
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Pushpa Singh",
+   "email": "Pushpa.niki@gmail.com",
+   "phoneNumber": 9967012953
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Naveen Singh",
+   "email": "naveensingh.knp@gmail.com",
+   "phoneNumber": 9920529815
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Rodney",
+   "email": "Rodney@badboy.productions",
+   "phoneNumber": 9820552694
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Rajesh CHAKRABARTI",
+   "email": "rajesh.chakrabarti@gmail.com",
+   "phoneNumber": 9820239033
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Pankaj Khanna",
+   "email": "Pankaj9400@gmail.com",
+   "phoneNumber": 9820448035
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Dhruti",
+   "email": "Dhruti.negandhi@gmail.com",
+   "phoneNumber": "91 9930104771"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Karam Singh",
+   "email": "Karam.Singh2209@gmail.com",
+   "phoneNumber": "91 9920105453"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Khushbu mehta",
+   "email": "Khushbu.mehta1791.km@gmail.com",
+   "phoneNumber": 8104281868
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Rajeev Chaudhari",
+   "email": "avantiarts@gmail.com",
+   "phoneNumber": 9820076504
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Sanjay Tripathy",
+   "email": "Sanjay@briskpe.com",
+   "phoneNumber": 9820984945
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Shailesh Gopalan",
+   "email": "Shailesh Gopalan s.g@live.in",
+   "phoneNumber": 9821477775
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Vishal",
+   "email": "Vishal@geneticcallnet.com",
+   "phoneNumber": 9930999529
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Dinika",
+   "email": "Dinika@geneticcallnet.com",
+   "phoneNumber": 9819222039
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Rajesh Ambokar",
+   "email": "rajesh.ambokar1@gmail.com",
+   "phoneNumber": " 9619100000"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Vibhor Hasija",
+   "Company name": "Yours Eventfully",
+   "Designation:": "Founder & CEO",
+   "email": "Vibhor@yourseventfully.com",
+   "phoneNumber": 9711320089
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Jaspal singh saddal",
+   "email": "jaspal312@gmail.com",
+   "phoneNumber": 8286158904
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Monica Murthy",
+   "email": "monicamurthy4@gmail.com",
+   "phoneNumber": 8879481240
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Satyabrata Das",
+   "Company name": "Laqshya Media Group",
+   "Designation:": "Strategic Alliances Specialist \/ COO Mediakeys",
+   "email": "satya.d@laqshyagroup.com",
+   "phoneNumber": 9833254881
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Vaibhav Gaulkar",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "National BDM",
+   "email": "vgaulkar@saksham-group.in",
+   "phoneNumber": 9004174330
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Rahul Mudgal",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "ASM",
+   "email": "rahul.mudgal@sakshamimpex.com",
+   "phoneNumber": 8408802888
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Manish Menon",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "BDM",
+   "email": "mmenon@saksham-group.in",
+   "phoneNumber": 9653363987
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Kiran shinde",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "Sales Executive",
+   "email": "kshinde@saksham-group.in",
+   "phoneNumber": 9821242250
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Rajendra Lad",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "Sales Executive",
+   "email": "rlad@saksham-group.in",
+   "phoneNumber": 9892960779
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Sunny Muntode",
+   "Company name": "Dream team breweries",
+   "Designation:": "Marketing head",
+   "email": "sunnym29@gmail.com",
+   "phoneNumber": 8082301234
+  },
+  {
+   "Company name": "Faridi Impex",
+   "Designation:": "Owner",
+   "email": "faridi.impex@yahoo.in",
+   "phoneNumber": 9920018227
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Mr. Raes faridi",
+   "Company name": "Super Enterprises",
+   "Designation:": "Owner",
+   "email": "sales@superenterprises.net.in",
+   "phoneNumber": 9820211028
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Pawan shewale",
+   "Company name": "Mumbai Food Traders",
+   "Designation:": "Owner",
+   "email": "mumbaifoodtraders@gmail.com",
+   "phoneNumber": 9136385174
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Vinay",
+   "Company name": "SSV distributors",
+   "Designation:": "Owner",
+   "email": "saimekal@ssvdistributors.com",
+   "phoneNumber": 8976456424
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Sainath",
+   "Company name": "Joyco",
+   "Designation:": "director",
+   "email": "vp@joycoindia.com",
+   "phoneNumber": 9819916336
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Vijendra pawaskar",
+   "Company name": "Joyco",
+   "Designation:": "director",
+   "email": "kj@joycoindia.com",
+   "phoneNumber": 9967227979
+  },
+  {
+   "Source": "Foodlink",
+   "name": "kaustubh joyco",
+   "Company name": "Irish House",
+   "Designation:": "Purchase head",
+   "email": "rayan.rodrigues@k-corp.in",
+   "phoneNumber": 8879773348
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Rayan Rodrigues",
+   "Company name": "Faridi Impex",
+   "Designation:": "Owner",
+   "email": "faridi.impex@yahoo.in",
+   "phoneNumber": 9773510824
+  },
+  {
+   "Source": "Foodlink",
+   "name": "Amit",
+   "email": "me@samiirhalady.com",
+   "phoneNumber": 9820081917
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Dr Sujaya Banerjee",
+   "email": "Sujaya@capstonepeople.com",
+   "phoneNumber": 8291700082
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Jaydeep Banerjee",
+   "email": "jaydeep.banerjee@me.com",
+   "phoneNumber": 9867444770
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ajay Gupta",
+   "email": "ajaygupta001@hotmail.com",
+   "phoneNumber": 9833086668
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Meghna Dalmia",
+   "email": "meghnadalmia1@gmail.com",
+   "phoneNumber": 9930086668
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Udesh Kejriwal",
+   "email": "udesh@arikaholidays.com",
+   "phoneNumber": 9320186484
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Poonam Nimbalkar",
+   "email": "poonam.nimbalkar@hungama.com",
+   "phoneNumber": 9820644657
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Vinita Sabberwal",
+   "email": "mittalsvinita@gmail.com",
+   "phoneNumber": 9768007873
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Tarsame Mittal",
+   "Company name": "TM Talent Management",
+   "Designation:": "Founder",
+   "email": "mittaltarsame@gmail.com",
+   "phoneNumber": "91 98677 4787"
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Sanjay M Lal",
+   "email": "sanjay@assetfzc.com",
+   "phoneNumber": 9820083713
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Karuna Patekar",
+   "email": "karoonapatekar@gmail.com",
+   "phoneNumber": 9821616161
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Ashish Patekar",
+   "email": "ashishpatekar@gmail.com",
+   "phoneNumber": 9870020001
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Khushboo Solanki",
+   "Company name": "INVENTUM Global",
+   "Designation:": "Asst.Director Sales & Marketing",
+   "email": "Khushboo.solanki@inventumglobal.com",
+   "phoneNumber": 9975264545
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Mr. Suprit Karkera",
+   "Company name": "BookMyShow",
+   "Designation:": "Head - Brand Partnerships",
+   "email": "suprit.karkera@bookmyshow.com",
+   "phoneNumber": 9820320201
+  },
+  {
+   "Source": "CH",
+   "name": "Ms. Pearl Sanga (+1)",
+   "Company name": "Della Group",
+   "Designation:": "Director",
+   "email": "Pearl@dellagroup.in",
+   "phoneNumber": 9821729783
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ms. Ayesha Ahuja",
+   "Company name": "CocoCart",
+   "Designation:": "Vice President, Gifting & Bespoke Services",
+   "email": "Ayesha@cococart.com",
+   "phoneNumber": 9833370176
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Labony kaushal",
+   "Company name": "Sisterhood Co.",
+   "Designation:": "Founder",
+   "email": "thesisterhoodcompany@gmail.com",
+   "phoneNumber": 9819608618
+  },
+  {
+   "Source": "MM",
+   "name": "Mr. Arjun Goel",
+   "email": "arjungoel77@gmail.com",
+   "phoneNumber": 7039000075
+  },
+  {
+   "Source": "MM",
+   "name": "Ms. Claudia Ciesla",
+   "email": "Claudia.enquiry@gmail.com",
+   "phoneNumber": 99200999908
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Nikunj Agarwal",
+   "Company name": "D'YAVOL",
+   "Designation:": "Marketing Manager",
+   "email": "nikunj@dyavolx.com",
+   "phoneNumber": 9545013497
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Darshan Vaswani",
+   "Company name": "D'YAVOL",
+   "Designation:": "Key Trade Manager",
+   "email": "darshan@dyavol.com",
+   "phoneNumber": 9766413558
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Supreeta Dubey",
+   "Company name": "D'YAVOL",
+   "Designation:": "Brand Director",
+   "email": "supreeta@dyavolx.com",
+   "phoneNumber": 9987228874
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Nikhil Manek",
+   "Company name": "D'YAVOL",
+   "Designation:": "Finance Manager",
+   "email": "nikhil@dyavol.com",
+   "phoneNumber": 9820059825
+  },
+  {
+   "Source": "SK",
+   "name": "Mr. Rajesh Choudhary",
+   "email": "rajeshnm83@yahoo.com",
+   "phoneNumber": 9820077709
+  },
+  {
+   "Source": "SK",
+   "name": "Mr. Romil Ratra",
+   "Company name": "Graviss Group",
+   "Designation:": "Executive Director and CEO",
+   "email": "r.ratra@gmail.com rr@gravissgoodfoods.com",
+   "phoneNumber": 9819950199
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Sachit Thakur",
+   "Company name": "ABI",
+   "Designation:": "AD Sales Beyond Beer",
+   "email": "sachit.thakur@in.ab-inbev.com",
+   "phoneNumber": 9833886444
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Austin Fernandes",
+   "Company name": "ABI",
+   "Designation:": "Senior Manager",
+   "email": "austin.fernandes@in.ab-inbev.com",
+   "phoneNumber": 9773899905
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Khushi Koul",
+   "Company name": "ABI",
+   "Designation:": "Area Sales Manager",
+   "email": "khushi.koul@in.ab-inbev.com",
+   "phoneNumber": 8505894648
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Ayusk Kapur",
+   "Company name": "ABI",
+   "Designation:": "Area Sales Manager",
+   "email": "ayush.kapur1@in.ab-inbev.com",
+   "phoneNumber": 7738322818
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Prachi Jaiswal",
+   "Company name": "ABI",
+   "Designation:": "High End Specialist",
+   "email": "prachi.jaiswal@in.ab-inbev.com",
+   "phoneNumber": 8376003820
+  },
+  {
+   "Source": "EFAQS + DC",
+   "name": "Javed Momin",
+   "Company name": "ABI",
+   "Designation:": "High End Specialist",
+   "email": "javed.momin@in.ab-inbev.com",
+   "phoneNumber": 8082490786
+  },
+  {
+   "Source": "Le15 Patisserie",
+   "name": "Vinay Malani",
+   "Company name": "Avante Crafts",
+   "Designation:": "CEO",
+   "email": "avantecottagecrafts@gmail.com",
+   "phoneNumber": 9820985195
+  },
+  {
+   "Source": "Le15 Patisserie",
+   "name": "Pinaki Mukherjee",
+   "Company name": "Awfis",
+   "Designation:": "Sales Head",
+   "email": "pinaki21@gmail.com",
+   "phoneNumber": 9819196826
+  },
+  {
+   "Source": "Le15 Patisserie",
+   "name": "Varun Dhingra",
+   "Company name": "Le15 Patisserie",
+   "Designation:": "Head of Finance",
+   "email": "vaarun@le15.com",
+   "phoneNumber": 9619931584
+  },
+  {
+   "Source": "Mr Coconut",
+   "name": "SHIVAM AGARWAL",
+   "Company name": "MR COCONUT",
+   "Designation:": "CEO & CO-FOUNDER",
+   "email": "mrcoconut.jaipur@gmail.com",
+   "phoneNumber": 9799999069
+  },
+  {
+   "Source": "Mr Coconut",
+   "name": "JAI KISHAN",
+   "Company name": "MR COCONUT",
+   "Designation:": "CFO",
+   "email": "mrcoconut.jaipur@gmail.com",
+   "phoneNumber": 8875121212
+  },
+  {
+   "Source": "The Leela Palaces, Hotels & Resorts!",
+   "name": "Anuraag Bhatnagar",
+   "Company name": "The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "CEO",
+   "email": "anuraag.bhatnagar@theleela.com",
+   "phoneNumber": 9765411001
+  },
+  {
+   "Source": "The Leela Palaces, Hotels & Resorts!",
+   "name": "Shridhar Nair",
+   "Company name": "The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Senior Vice President Operations",
+   "email": "shridhar.nair@theleela.com",
+   "phoneNumber": 9890402682
+  },
+  {
+   "Source": "The Leela Palaces, Hotels & Resorts!",
+   "name": "Sharad Puri",
+   "Company name": "The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Sr. Vice President – Sales & Distribution",
+   "email": "sharad.puri@theleela.com",
+   "phoneNumber": 8886061555
+  },
+  {
+   "Source": "The Leela Palaces, Hotels & Resorts!",
+   "name": "Megha Ajgaonkar",
+   "Company name": "The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Associate Vice President Corporate Sales",
+   "email": "megha.ajgaonkar@theleela.com",
+   "phoneNumber": 9930991316
+  },
+  {
+   "Source": "The Leela Palaces, Hotels & Resorts!",
+   "name": "Azita Ramodiya Sakre",
+   "Company name": "The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Area Director of Sales",
+   "email": "azita.ramodiya@theleela.com",
+   "phoneNumber": 9819667990
+  },
+  {
+   "Source": "The Leela Palaces, Hotels & Resorts!",
+   "name": "Anand Athavale",
+   "Company name": "The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Director Sales & Marketing",
+   "email": "anand.athavale@theleela.com",
+   "phoneNumber": 9769688416
+  },
+  {
+   "Source": "The Leela Palaces, Hotels & Resorts!",
+   "name": "Deepak Verma",
+   "Company name": "The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Director of sales and marketing",
+   "email": "deepak.verma@theleela.com ",
+   "phoneNumber": 9910025376
+  },
+  {
+   "Source": "The Leela Palaces, Hotels & Resorts!",
+   "name": "Anmol Pancholy",
+   "Company name": "The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "Director Sales & Marketing",
+   "email": "anmol.pancholy@theleela.com",
+   "phoneNumber": 7411782443
+  },
+  {
+   "Source": "The Leela Palaces, Hotels & Resorts!",
+   "name": "Virender Razdan",
+   "Company name": "The Leela Palaces, Hotels & Resorts!",
+   "Designation:": "General Manager",
+   "email": "virender.razdan@theleela.com",
+   "phoneNumber": 9535871122
+  },
+  {
+   "Source": "D'YAVOL",
+   "name": "Nikunj Agarwal",
+   "Company name": "D'YAVOL",
+   "Designation:": "Marketing Manager",
+   "email": "nikunj@dyavolx.com",
+   "phoneNumber": 9545013497
+  },
+  {
+   "Source": "D'YAVOL",
+   "name": "Darshan Vaswani",
+   "Company name": "D'YAVOL",
+   "Designation:": "Key Trade Manager",
+   "email": "darshan@dyavol.com",
+   "phoneNumber": 9766413558
+  },
+  {
+   "Source": "D'YAVOL",
+   "name": "Supreeta Dubey",
+   "Company name": "D'YAVOL",
+   "Designation:": "Brand Director",
+   "email": "supreeta@dyavolx.com",
+   "phoneNumber": 9987228874
+  },
+  {
+   "Source": "D'YAVOL",
+   "name": "Nikhil Manek",
+   "Company name": "D'YAVOL",
+   "Designation:": "Finance Manager",
+   "email": "nikhil@dyavol.com",
+   "phoneNumber": 9820059825
+  },
+  {
+   "Source": "ABI",
+   "name": "Sachit Thakur",
+   "Company name": "ABI",
+   "Designation:": "AD Sales Beyond Beer",
+   "email": "sachit.thakur@in.ab-inbev.com",
+   "phoneNumber": 9833886444
+  },
+  {
+   "Source": "ABI",
+   "name": "Austin Fernandes",
+   "Company name": "ABI",
+   "Designation:": "Senior Manager",
+   "email": "austin.fernandes@in.ab-inbev.com",
+   "phoneNumber": 9773899905
+  },
+  {
+   "Source": "ABI",
+   "name": "Khushi Koul",
+   "Company name": "ABI",
+   "Designation:": "Area Sales Manager",
+   "email": "khushi.koul@in.ab-inbev.com",
+   "phoneNumber": 8505894648
+  },
+  {
+   "Source": "ABI",
+   "name": "Ayusk Kapur",
+   "Company name": "ABI",
+   "Designation:": "Area Sales Manager",
+   "email": "ayush.kapur1@in.ab-inbev.com",
+   "phoneNumber": 7738322818
+  },
+  {
+   "Source": "ABI",
+   "name": "Prachi Jaiswal",
+   "Company name": "ABI",
+   "Designation:": "High End Specialist",
+   "email": "prachi.jaiswal@in.ab-inbev.com",
+   "phoneNumber": 8376003820
+  },
+  {
+   "Source": "ABI",
+   "name": "Javed Momin",
+   "Company name": "ABI",
+   "Designation:": "High End Specialist",
+   "email": "javed.momin@in.ab-inbev.com",
+   "phoneNumber": 8082490786
+  },
+  {
+   "Source": "EFAQS+DC",
+   "name": "Sagarika Yadav",
+   "Company name": "Food blogger\/ Jhakaas Flavours",
+   "Designation:": "Food blogger\/ camera man",
+   "email": "iamsagarikayadav@gmail.com",
+   "phoneNumber": 9970317039
+  },
+  {
+   "Source": "speaker",
+   "name": "Shipra Khanna",
+   "Company name": "Shipra's Kitchen",
+   "Designation:": "Celebrity Chef",
+   "email": "Shipra@shiprakhanna.com",
+   "phoneNumber": 9619126397
+  },
+  {
+   "Source": "mtsr",
+   "name": "Vaibhav Gaulkar",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "National BDM",
+   "email": "vgaulkar@saksham-group.in",
+   "phoneNumber": 9004174330
+  },
+  {
+   "Source": "mtsr",
+   "name": "Rahul Mudgal",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "ASM",
+   "email": "rahul.mudgal@sakshamimpex.com",
+   "phoneNumber": 8408802888
+  },
+  {
+   "Source": "mtsr",
+   "name": "Manish Menon",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "BDM",
+   "email": "mmenon@saksham-group.in",
+   "phoneNumber": 9653363987
+  },
+  {
+   "Source": "mtsr",
+   "name": "Kiran shinde",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "Sales Executive",
+   "email": "kshinde@saksham-group.in",
+   "phoneNumber": 9821242250
+  },
+  {
+   "Source": "mtsr",
+   "name": "Rajendra Lad",
+   "Company name": "Saksham Impex pvt ltd",
+   "Designation:": "Sales Executive",
+   "email": "rlad@saksham-group.in",
+   "phoneNumber": 9892960779
+  },
+  {
+   "Source": "mtsr",
+   "name": "Sunny Muntode",
+   "Company name": "Dream team breweries",
+   "Designation:": "Marketing head",
+   "email": "sunnym29@gmail.com",
+   "phoneNumber": 8082301234
+  },
+  {
+   "Source": "mtsr",
+   "name": "Mr. Raes faridi",
+   "Company name": "Faridi Impex",
+   "Designation:": "Owner",
+   "email": "faridi.impex@yahoo.in",
+   "phoneNumber": 9920018227
+  },
+  {
+   "Source": "mtsr",
+   "name": "Pawan shewale",
+   "Company name": "Super Enterprises",
+   "Designation:": "Owner",
+   "email": "sales@superenterprises.net.in",
+   "phoneNumber": 9820211028
+  },
+  {
+   "Source": "mtsr",
+   "name": "Vinay",
+   "Company name": "Mumbai Food Traders",
+   "Designation:": "Owner",
+   "email": "mumbaifoodtraders@gmail.com",
+   "phoneNumber": 9136385174
+  },
+  {
+   "Source": "mtsr",
+   "name": "Sainath",
+   "Company name": "SSV distributors",
+   "Designation:": "Owner",
+   "email": "saimekal@ssvdistributors.com",
+   "phoneNumber": 8976456424
+  },
+  {
+   "Source": "mtsr",
+   "name": "Vijendra pawaskar",
+   "Company name": "Joyco",
+   "Designation:": "director",
+   "email": "vp@joycoindia.com",
+   "phoneNumber": 9819916336
+  },
+  {
+   "Source": "mtsr",
+   "name": "kaustubh joyco",
+   "Company name": "Joyco",
+   "Designation:": "director",
+   "email": "kj@joycoindia.com",
+   "phoneNumber": 9967227979
+  },
+  {
+   "Source": "mtsr",
+   "name": "Rayan Rodrigues",
+   "Company name": "Irish House",
+   "Designation:": "Purchase head",
+   "email": "rayan.rodrigues@k-corp.in",
+   "phoneNumber": 8879773348
+  },
+  {
+   "Source": "mtsr",
+   "name": "Junaid Faridi",
+   "Company name": "Faridi Impex",
+   "Designation:": "Owner",
+   "email": "faridi.impex@yahoo.in",
+   "phoneNumber": 9773510824
   }
  
 
-]
+  
+ ]
