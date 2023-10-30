@@ -15,11 +15,11 @@ if (!fs.existsSync(qrcodeDirectory)) {
   fs.mkdirSync(qrcodeDirectory);
 }
 
-let codeNumber = 980;
+let codeNumber = 682;
 let peopleCollection = []
 
 const generateImages = async () => {
-  for (let index = 0; index < 35; index++) {
+  for (let index = 0; index < 10; index++) {
 
     let item = data[index];
     const { name, phoneNumber, email } = item;

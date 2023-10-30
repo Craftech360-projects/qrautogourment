@@ -2,27 +2,27 @@ const fs = require('fs');
 // const data = require('./data1.json');
 // const data = require('./data4.json');
 const data=[{
-  name:"Mr Morani",
-  phoneNumber:"9821043198",
-  emailId:"mohomedmorani@domeindia.com",
-  code:"GL23EF1910"
+  name:"Sabbas Joseph",
+  phoneNumber:"",
+  emailId:"sabbas.joseph@wizcraftworld.com",
+  code:"GL23EF0681"
 },
 {
-  name:"Esha",
-  phoneNumber:"9930715359",
+  name:"Balraj V Anthati",
+  phoneNumber:"9967236606",
   emailId:"esha@sanjeevkapoor.com",
-  code:"GL23EF1911"
-},
-{
-  name:"Mr Kapoor",
-  phoneNumber:"9821046055",
-  code:"GL23EF1912"
-},
-{
-  name:"Dear Mazar",
-  phoneNumber:"9821222599",
-  code:"GL23EF1913"
+  code:"GL23EF0682"
 }
+// {
+//   name:"Mr Kapoor",
+//   phoneNumber:"9821046055",
+//   code:"GL23EF1912"
+// },
+// {
+//   name:"Dear Mazar",
+//   phoneNumber:"9821222599",
+//   code:"GL23EF1913"
+// }
 ]
 const logger = require('./logger');
 logger.log('This is a log message.');
