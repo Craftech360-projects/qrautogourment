@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Rudresh",
+    "phoneNumber": "987-654-3210",
+    "email": "abhi@craftech360.com"
+  },
+  {
+    "name": "Sanjay",
+    "phoneNumber": "123-456-7890",
+    "email": "sanjay@craftech360.com"
+  },
+ 
+  {
+    "name": "Abilash",
+    "phoneNumber": "555-555-5555",
+    "email": "abilash@example.com"
+  },
+  {
+    "name": "Sachin",
+    "phoneNumber": "888-888-8888",
+    "email": "sanjaysnanjunda@gmail.com"
+  }
+]

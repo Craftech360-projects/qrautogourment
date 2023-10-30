@@ -1,0 +1,790 @@
+2023-10-30T12:44:26.411Z - This is a log message.
+2023-10-30T12:44:28.655Z - gopal@bikaji.com
+2023-10-30T12:44:28.655Z - Gopal's Team (3)
+2023-10-30T12:44:28.656Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"gopal@bikaji.com","MessageUUID":"ef6b9d11-5319-43eb-9f02-a7adf6ec6ca6","MessageID":"288230396436143412","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143412"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.657Z - Diva.daruwala@redbull.com
+2023-10-30T12:44:28.658Z - Ms. Rhiannon Elms
+2023-10-30T12:44:28.659Z - ElmsRN@state.gov
+2023-10-30T12:44:28.657Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Diva.daruwala@redbull.com","MessageUUID":"76817789-da87-46dd-b44b-c1901960a29e","MessageID":"1152921524894077731","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077731"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.657Z - Diva Daruwala
+2023-10-30T12:44:28.659Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ElmsRN@state.gov","MessageUUID":"6fcd1b8e-2aec-440c-a499-28fff858c503","MessageID":"1152921524894077734","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077734"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.661Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sagar.parikh@3bf.in","MessageUUID":"a2b6cbff-327a-4150-b181-f26b40954978","MessageID":"576460772589071142","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071142"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.660Z - sagar.parikh@3bf.in
+2023-10-30T12:44:28.660Z - Sagar Parikh
+2023-10-30T12:44:28.663Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"taran.khetawat@3bf.in","MessageUUID":"40df8c56-be88-48e3-88e5-0f21b40ffe74","MessageID":"288230396436143413","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143413"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.667Z - jainienahata1993@gmail.com
+2023-10-30T12:44:28.663Z - Taran Khetawat
+2023-10-30T12:44:28.663Z - taran.khetawat@3bf.in
+2023-10-30T12:44:28.666Z - Jainie's Sethia
+2023-10-30T12:44:28.667Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"jainienahata1993@gmail.com","MessageUUID":"fbaba0e3-d571-4345-83e2-7a950dff2c83","MessageID":"576460772589071143","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071143"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.671Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"SoodDX@state.gov","MessageUUID":"02d2c99e-7c63-44a6-b4e6-0781587eecd0","MessageID":"1152921524894077736","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077736"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.671Z - SoodDX@state.gov
+2023-10-30T12:44:28.670Z - Mr. Dhruv Sood
+2023-10-30T12:44:28.675Z - panam.parikh@3bf.in
+2023-10-30T12:44:28.677Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"gopal@bikaji.com","MessageUUID":"926e7950-05ec-4a4f-930b-acc376a75f36","MessageID":"1152921524894077738","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077738"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.675Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"panam.parikh@3bf.in","MessageUUID":"8ff4eb38-ffca-44fa-9530-3bb99e429ab1","MessageID":"1152921524894077737","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077737"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.675Z - Panam Parikh
+2023-10-30T12:44:28.677Z - gopal@bikaji.com
+2023-10-30T12:44:28.679Z - shezana.shaikh@redbull.com
+2023-10-30T12:44:28.679Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"shezana.shaikh@redbull.com","MessageUUID":"4d3c7cef-117a-403d-bec8-0281cfc4e565","MessageID":"576460772589071144","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071144"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.679Z - Shezana Shaikh
+2023-10-30T12:44:28.677Z - Gopal Agarwal
+2023-10-30T12:44:28.681Z - rkumar@ss-associates.co.in
+2023-10-30T12:44:28.681Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rkumar@ss-associates.co.in","MessageUUID":"26e1faa1-55d6-4838-b30a-7e6dca66f851","MessageID":"288230396436143415","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143415"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.682Z - aryayagyadev@gmail.com
+2023-10-30T12:44:28.682Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"aryayagyadev@gmail.com","MessageUUID":"1a4cebcf-1041-4973-bbf0-591f5dba6f7b","MessageID":"288230396436143416","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143416"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.681Z - Mr. Ravinder Kumar
+2023-10-30T12:44:28.701Z - Swapnil Gharte
+2023-10-30T12:44:28.682Z - Yagyadev Arya
+2023-10-30T12:44:28.701Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ecomm@provfoods.com","MessageUUID":"f94a94a8-db43-40f1-915a-68daae360cdd","MessageID":"1152921524894077740","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077740"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.702Z - anshul@provfoods.com
+2023-10-30T12:44:28.702Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"anshul@provfoods.com","MessageUUID":"402764b8-a28d-4503-81db-71a7529537b7","MessageID":"288230396436143418","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143418"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.701Z - ecomm@provfoods.com
+2023-10-30T12:44:28.704Z - Nitin.Kashid@theicecreambakery.in
+2023-10-30T12:44:28.704Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Nitin.Kashid@theicecreambakery.in","MessageUUID":"a8a0cc3e-9d93-4178-9026-43c7c10b7c0e","MessageID":"576460772589071148","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071148"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.704Z - Nitin
+2023-10-30T12:44:28.702Z - Anshul Sadani
+2023-10-30T12:44:28.707Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"panam.parikh@3bf.in","MessageUUID":"de3cffe9-5a19-4c1f-a129-c34730c0e876","MessageID":"576460772589071149","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071149"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.709Z - Mr. Ankit Chawala
+2023-10-30T12:44:28.707Z - panam.parikh@3bf.in
+2023-10-30T12:44:28.707Z - Pratishta Agarwal
+2023-10-30T12:44:28.710Z - ankit.chawla@haldiram.com
+2023-10-30T12:44:28.710Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ankit.chawla@haldiram.com","MessageUUID":"b58a3e1b-0a52-44cd-b2ce-633e049d80de","MessageID":"288230396436143419","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143419"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.711Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"noopur.athale@cateringcollective.in","MessageUUID":"c66062bd-885f-497d-aeb2-beb0cfbea353","MessageID":"1152921524894077742","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077742"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.711Z - noopur.athale@cateringcollective.in
+2023-10-30T12:44:28.713Z - Anmol Pancholy
+2023-10-30T12:44:28.713Z - anmol.pancholy@theleela.com
+2023-10-30T12:44:28.713Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"anmol.pancholy@theleela.com","MessageUUID":"8badcb4c-f871-4c3b-aa86-e75d786a51a9","MessageID":"288230396436143420","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143420"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.715Z - maltijain9@gmail.com
+2023-10-30T12:44:28.715Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"maltijain9@gmail.com","MessageUUID":"4d63f513-c414-48cc-9e9a-6e36f1980fd1","MessageID":"288230396436143421","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143421"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.715Z - Malti Jain
+2023-10-30T12:44:28.716Z - Aniket Shetty
+2023-10-30T12:44:28.711Z - Noopur Athale
+2023-10-30T12:44:28.716Z - aniket.shetty@cateringcollective.in
+2023-10-30T12:44:28.716Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"aniket.shetty@cateringcollective.in","MessageUUID":"0d3f2248-3ccc-4faf-9b3b-4df534ec02f7","MessageID":"576460772589071150","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071150"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.717Z - Shraddha Motipara
+2023-10-30T12:44:28.717Z - shraddha.motipara@k-corp.in
+2023-10-30T12:44:28.718Z - Darayus.bhathena@redbull.com
+2023-10-30T12:44:28.717Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"shraddha.motipara@k-corp.in","MessageUUID":"cb044ba2-7b25-4598-9a16-0f73fc6369eb","MessageID":"288230396436143423","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143423"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.731Z - zacb@westfaliafruit.co.za
+2023-10-30T12:44:28.718Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Darayus.bhathena@redbull.com","MessageUUID":"bd326911-5ab8-4261-b7a6-efbc51b99c9b","MessageID":"288230396436143422","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143422"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.731Z - Zac Bard
+2023-10-30T12:44:28.718Z - Darayus Bhathena
+2023-10-30T12:44:28.731Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"zacb@westfaliafruit.co.za","MessageUUID":"80221a21-0479-4264-b058-c8e60043bb0d","MessageID":"1152921524894077743","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077743"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.734Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"vkhetawat@gmail.com","MessageUUID":"39522c33-39cd-4258-9848-70664ae8781c","MessageID":"288230396436143478","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143478"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.750Z - Prince Nagpal
+2023-10-30T12:44:28.733Z - Vinay Khetawat
+2023-10-30T12:44:28.750Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"us.nagpal@gmail.com","MessageUUID":"c0201901-f67d-4a3f-90d1-84e0643fdb3e","MessageID":"1152921524894077744","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077744"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.733Z - vkhetawat@gmail.com
+2023-10-30T12:44:28.751Z - kavita@provfoods.com
+2023-10-30T12:44:28.751Z - Kavita Lobo
+2023-10-30T12:44:28.752Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"kavita@provfoods.com","MessageUUID":"abfe505f-6af2-496b-ae3e-e730b0653915","MessageID":"1152921524894077745","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077745"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.754Z - Suresh Luniya
+2023-10-30T12:44:28.750Z - us.nagpal@gmail.com
+2023-10-30T12:44:28.754Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sureshluniya@gmail.com","MessageUUID":"93ec7f6f-ea09-4757-af12-29d926529eb6","MessageID":"288230396436143477","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143477"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.754Z - sureshluniya@gmail.com
+2023-10-30T12:44:28.758Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"toral.mazmudar@gmail.com","MessageUUID":"213f3ce4-6296-4962-abd9-7168d4f67e5f","MessageID":"1152921524894077747","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077747"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.758Z - Toral Mazumdar
+2023-10-30T12:44:28.758Z - toral.mazmudar@gmail.com
+2023-10-30T12:44:28.772Z - Lavanya Tabeck
+2023-10-30T12:44:28.772Z - marketing.intern@cateringcollective.in
+2023-10-30T12:44:28.772Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"marketing.intern@cateringcollective.in","MessageUUID":"e9d390af-35ab-4327-94b6-514380b3257c","MessageID":"288230396436143481","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143481"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.774Z - Nitin Paliwal
+2023-10-30T12:44:28.774Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nitin.paliwal@westfaliafruit.com","MessageUUID":"4cbbedf5-5944-47c6-bc66-9d123dac3459","MessageID":"288230396436143482","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143482"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.777Z - ajay.tg@westfaliafruit.com
+2023-10-30T12:44:28.777Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ajay.tg@westfaliafruit.com","MessageUUID":"0ef45313-8ea4-4025-aabc-4db4e8209083","MessageID":"288230396436143483","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143483"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.774Z - nitin.paliwal@westfaliafruit.com
+2023-10-30T12:44:28.792Z - AMIT TYAGI
+2023-10-30T12:44:28.792Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"TGOURMET_2@YAHOO.CO.IN","MessageUUID":"2787df39-7b48-450f-b021-af28c01390df","MessageID":"1152921524894077748","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077748"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.776Z - Ajay TG
+2023-10-30T12:44:28.793Z - Virender Razdan
+2023-10-30T12:44:28.793Z - virender.razdan@theleela.com
+2023-10-30T12:44:28.793Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"virender.razdan@theleela.com","MessageUUID":"45273f9e-02e0-4af5-93ba-90ece2ef6c45","MessageID":"576460772589071164","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071164"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.794Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Nitin.Kashid@theicecreambakery.in","MessageUUID":"12ac9558-f62d-4387-9e81-f4d224aa7dcb","MessageID":"1152921524894077755","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077755"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.794Z - Nitin.Kashid@theicecreambakery.in
+2023-10-30T12:44:28.792Z - TGOURMET_2@YAHOO.CO.IN
+2023-10-30T12:44:28.797Z - megha.ajgaonkar@theleela.com
+2023-10-30T12:44:28.797Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"megha.ajgaonkar@theleela.com","MessageUUID":"10dba1f0-581f-4efe-9278-b6dd152e2bbd","MessageID":"288230396436143485","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143485"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.797Z - Megha Ajgaonkar
+2023-10-30T12:44:28.794Z - Nitin
+2023-10-30T12:44:28.800Z - sharad.puri@theleela.com
+2023-10-30T12:44:28.800Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sharad.puri@theleela.com","MessageUUID":"09f018d1-08b6-4fe4-9460-bcce78c6b353","MessageID":"1152921524894077749","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077749"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.848Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rsawhney67@gmail.com","MessageUUID":"80032778-c689-46b5-b5bb-3953e3c46063","MessageID":"288230396436143487","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143487"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:28.848Z - Mr. Sonu Sawhney
++
+Ms. Vaishali Sawhney
+2023-10-30T12:44:28.848Z - rsawhney67@gmail.com
+2023-10-30T12:44:28.800Z - Sharad Puri
+2023-10-30T12:44:28.962Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Ashyraas@gmail.com","MessageUUID":"122988d9-e65d-464b-a71c-93c964633bc7","MessageID":"576460772589071167","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071167"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.010Z - Ms. Tabussum Modi
+2023-10-30T12:44:28.962Z - Ms. Anamika Shah
+2023-10-30T12:44:28.962Z - Ashyraas@gmail.com
+2023-10-30T12:44:29.010Z - tabassum@victortango.co.in
+2023-10-30T12:44:29.010Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"tabassum@victortango.co.in","MessageUUID":"1e68489f-d4d6-4023-a8cb-f882bb1982b7","MessageID":"576460772589071166","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071166"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.012Z - ssaran@ss-associates.co.in
+2023-10-30T12:44:29.012Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ssaran@ss-associates.co.in","MessageUUID":"f54ec967-24ae-4f6f-afb5-d90104626625","MessageID":"288230396436143492","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143492"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.014Z - Mr. Gurinder Singh
+2023-10-30T12:44:29.014Z - gsingh@ss-associates.co.in
+2023-10-30T12:44:29.014Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"gsingh@ss-associates.co.in","MessageUUID":"7c710894-c3b2-4a21-a88c-36e9bd6a00d0","MessageID":"1152921524894077756","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077756"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.012Z - Mr. Sumit Saran
+2023-10-30T12:44:29.048Z - Ms. Jueta Hemdev
+2023-10-30T12:44:29.048Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"jueta@yoloent.in","MessageUUID":"07442ffc-6cc3-4a20-89ec-8ac1bce484dd","MessageID":"1152921524894077757","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077757"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.104Z - Anuraag Bhatnagar
+2023-10-30T12:44:29.105Z - anuraag.bhatnagar@theleela.com
+2023-10-30T12:44:29.105Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"anuraag.bhatnagar@theleela.com","MessageUUID":"a0edd170-2f67-47d1-8a30-f1690f34d711","MessageID":"1152921524894077758","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077758"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.048Z - jueta@yoloent.in
+2023-10-30T12:44:29.131Z - Mr. Sushil Wadhwa
+2023-10-30T12:44:29.131Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sushil@platinumworld.net","MessageUUID":"01bf62fd-3663-462e-b87f-71a3fa3fbbd7","MessageID":"288230396436143497","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143497"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.148Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"saurabh.khurana@laqshyaliveex.com","MessageUUID":"72bb357a-1f97-476d-9a3a-89bbf92c172d","MessageID":"576460772589071171","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071171"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.148Z - saurabh.khurana@laqshyaliveex.com
+2023-10-30T12:44:29.131Z - sushil@platinumworld.net
+2023-10-30T12:44:29.148Z - Mr. Saurabh Khurana
+2023-10-30T12:44:29.204Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Bhavnesh@fbcelebration.com","MessageUUID":"7c095620-1b85-40bc-baa5-29bbef3dd040","MessageID":"288230396436143499","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143499"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.204Z - Bhavnesh@fbcelebration.com
+2023-10-30T12:44:29.218Z - Mr. Harjas Singh
+2023-10-30T12:44:29.204Z - Mr. Bhavnesh Sawhney
+2023-10-30T12:44:29.218Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"info@cocobae.in","MessageUUID":"db51610f-37d4-4651-b005-38d9c256c9ea","MessageID":"288230396436143501","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143501"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.219Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"prateek@coppercomm.in","MessageUUID":"731b8567-dc92-46b2-abea-cd7fe12eff3b","MessageID":"576460772589071172","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071172"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.219Z - prateek@coppercomm.in
+2023-10-30T12:44:29.218Z - info@cocobae.in
+2023-10-30T12:44:29.219Z - Mr. Prateek Tandon
+2023-10-30T12:44:29.242Z - avishkar@natura.net.in
+2023-10-30T12:44:29.243Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"avishkar@natura.net.in","MessageUUID":"6f7ad57b-cb79-41dd-a7a5-091480112725","MessageID":"576460772589071176","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071176"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.242Z - Mr. Avishkar Tendle
+2023-10-30T12:44:29.244Z - krayonzentertainmet@gmail.com
+2023-10-30T12:44:29.244Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"krayonzentertainmet@gmail.com","MessageUUID":"c148623a-2d7b-4e58-b89e-8017f451dca7","MessageID":"576460772589071174","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071174"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.244Z - Mr. Achint Nag (+2)
+2023-10-30T12:44:29.245Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"zuzer@partycruisersindia.com","MessageUUID":"a44cdebc-3ab8-4b9f-9f2f-84f15d1646d2","MessageID":"576460772589071175","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071175"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.245Z - Mr. Zuzer Lucknowala
+2023-10-30T12:44:29.257Z - contact.kenishaawasthi@gmail.com
+2023-10-30T12:44:29.257Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"contact.kenishaawasthi@gmail.com","MessageUUID":"1e7b605f-5ce5-419c-815d-0dc39de646e9","MessageID":"1152921524894077761","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077761"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.245Z - zuzer@partycruisersindia.com
+2023-10-30T12:44:29.342Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"forum.mehta@vritti.co.in","MessageUUID":"c85846f0-80e5-4ec4-b032-fdff80ca87ce","MessageID":"576460772589071178","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071178"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.342Z - forum.mehta@vritti.co.in
+2023-10-30T12:44:29.257Z - Ms. Kenisha Awasthi
+2023-10-30T12:44:29.367Z - rajesh_bheda@yahoo.com
+2023-10-30T12:44:29.366Z - Mr. Rajesh Bheda
+2023-10-30T12:44:29.341Z - Forum Mehta
+2023-10-30T12:44:29.367Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rajesh_bheda@yahoo.com","MessageUUID":"93b802c3-9d27-4025-94e7-0aa201f908cd","MessageID":"1152921524894077762","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077762"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.381Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"chris@occasionzevents.com","MessageUUID":"a9e3580e-07fa-4a0d-8f5e-a007a951bb4d","MessageID":"576460772589071181","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071181"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.383Z - nehal_awoke@awakening-experiences.com
+2023-10-30T12:44:29.381Z - chris@occasionzevents.com
+2023-10-30T12:44:29.381Z - Mr. Christopher Pereira
+2023-10-30T12:44:29.383Z - Mr. Nehal Shah
+2023-10-30T12:44:29.383Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nehal_awoke@awakening-experiences.com","MessageUUID":"1d47a5b7-8482-49c5-a0ec-3033d3843126","MessageID":"576460772589071180","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071180"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.410Z - aarti@mtom.co.in
+2023-10-30T12:44:29.410Z - Ms. Aarti Manocha
+2023-10-30T12:44:29.481Z - Aishwaryaganesh1@kpmg.com
+2023-10-30T12:44:29.410Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"aarti@mtom.co.in","MessageUUID":"ee3fb215-5a67-4c33-af23-396b21861e9b","MessageID":"288230396436143504","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143504"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.481Z - Ms. Aishwarya Ganesh
+2023-10-30T12:44:29.554Z - suchetasarwan@kpmg.com
+2023-10-30T12:44:29.481Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Aishwaryaganesh1@kpmg.com","MessageUUID":"1a68ab7f-783a-4731-8815-381b598365bd","MessageID":"576460772589071193","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071193"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.554Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"suchetasarwan@kpmg.com","MessageUUID":"27cc0cd9-d07a-451d-a071-bb60adba63e6","MessageID":"1152921524894077764","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077764"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.554Z - Ms. Sucheta Sarwan
+2023-10-30T12:44:29.681Z - rashmiudaysingh@gmail.com
+2023-10-30T12:44:29.681Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rashmiudaysingh@gmail.com","MessageUUID":"47c11e51-4ae7-4691-b58f-c1f7b5d4bb07","MessageID":"576460772589071200","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071200"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.681Z - Rashmi Uday Singh
+2023-10-30T12:44:29.682Z - samikshashetty2@kpmg.com
+2023-10-30T12:44:29.682Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"samikshashetty2@kpmg.com","MessageUUID":"504973a2-82a2-4e88-981c-d301c6169148","MessageID":"576460772589071199","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071199"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.682Z - Ms. Samiksha Shetty
+2023-10-30T12:44:29.718Z - nikhilapalat@gmail.com
+2023-10-30T12:44:29.718Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nikhilapalat@gmail.com","MessageUUID":"97875b20-f62d-45a6-a153-dcb00d06f47b","MessageID":"288230396436143510","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143510"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.756Z - lenaaggarwal@gmail.com
+2023-10-30T12:44:29.756Z - Mrs . Lena Aggarwal
+
+Ms. Ishita Aggarwal
+
+Mrs Simran Aggarwal Tangri
+
+2023-10-30T12:44:29.757Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"lenaaggarwal@gmail.com","MessageUUID":"2595c11c-f4fe-41c8-b4e3-931624235eea","MessageID":"576460772589071205","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071205"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.718Z - Nikhila Palat
+2023-10-30T12:44:29.758Z - Nimish Talsania
+2023-10-30T12:44:29.758Z - nimish.talsania@wonderchef.in
+2023-10-30T12:44:29.758Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nimish.talsania@wonderchef.in","MessageUUID":"9aca6730-e8aa-4d46-990e-ebe390d93708","MessageID":"576460772589071207","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071207"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.759Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"amit.tilekar@wonderchef.in","MessageUUID":"ecbce2d3-de38-42fa-a17f-9e2d48744b63","MessageID":"1152921524894077766","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077766"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.759Z - amit.tilekar@wonderchef.in
+2023-10-30T12:44:29.761Z - shimali@wonderchef.in
+2023-10-30T12:44:29.761Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"shimali@wonderchef.in","MessageUUID":"21a4af10-eed4-4e9f-86a4-daacc54c9348","MessageID":"288230396436143514","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143514"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.761Z - Shimali Goel
+2023-10-30T12:44:29.759Z - Amit Tilekar
+2023-10-30T12:44:29.777Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"parthip@weddingsutra.com","MessageUUID":"371f9296-2d48-4014-a252-85f20929b46b","MessageID":"576460772589071208","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071208"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.777Z - parthip@weddingsutra.com
+2023-10-30T12:44:29.777Z - Parthip Thyagrajan
+2023-10-30T12:44:29.778Z - Arindam Chakraborty
+2023-10-30T12:44:29.778Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"arindam.chakraborty@cateringcollective.in","MessageUUID":"ed81269f-a946-4e5a-ae71-be3530e7511d","MessageID":"1152921524894077767","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077767"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.778Z - arindam.chakraborty@cateringcollective.in
+2023-10-30T12:44:29.791Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Prriyanka27@yahoo.co.in","MessageUUID":"12dab083-56b1-47b0-ab68-5b9d804db278","MessageID":"288230396436143525","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143525"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.791Z - Ms. Priyanka Chakraborty
+2023-10-30T12:44:29.791Z - Prriyanka27@yahoo.co.in
+2023-10-30T12:44:29.806Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Aditi@sagesaffron.in","MessageUUID":"f0064379-534a-484b-a9c5-95acdf19f65e","MessageID":"288230396436143527","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143527"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.806Z - Aditi@sagesaffron.in
+2023-10-30T12:44:29.806Z - Aditi Dugar
+2023-10-30T12:44:29.807Z - Chef Romy Gill
+2023-10-30T12:44:29.807Z - romygill08@gmail.com
+2023-10-30T12:44:29.821Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"gautam_15jul@yahoo.co.in","MessageUUID":"728114cc-df90-4720-8c24-87417c060271","MessageID":"288230396436143528","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143528"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.821Z - Gautam Anand
+2023-10-30T12:44:29.821Z - gautam_15jul@yahoo.co.in
+2023-10-30T12:44:29.807Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"romygill08@gmail.com","MessageUUID":"2069dd97-3564-4233-b510-7e25fc8d5eae","MessageID":"576460772589071210","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071210"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.832Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"asif.pathan@wonderchef.in","MessageUUID":"9d40e19f-a64d-4d06-886e-a0e373552818","MessageID":"1152921524894077770","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077770"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.832Z - Asif Pathan
+2023-10-30T12:44:29.832Z - asif.pathan@wonderchef.in
+2023-10-30T12:44:29.834Z - jssentertainment1@gmail.com
+2023-10-30T12:44:29.834Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"jssentertainment1@gmail.com","MessageUUID":"b7949a38-97f7-4be8-a4e0-de8c7e778b5e","MessageID":"288230396436143529","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143529"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.835Z - gaurav@infiniainc.in
+2023-10-30T12:44:29.835Z - Mr. Gaurav Kumar
+2023-10-30T12:44:29.834Z - JAGMEET SETHI
+2023-10-30T12:44:29.835Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"gaurav@infiniainc.in","MessageUUID":"578605e7-82c5-4881-bb81-a8814dad44fa","MessageID":"1152921524894077774","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077774"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.835Z - Vaibhav mastakar
+2023-10-30T12:44:29.835Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mastakarv@gmail.com","MessageUUID":"e6937b16-79e7-4e16-928a-1ad8a5752093","MessageID":"576460772589071213","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071213"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.837Z - priyanka.bhambhani@foodlink.in
+2023-10-30T12:44:29.835Z - mastakarv@gmail.com
+2023-10-30T12:44:29.837Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"priyanka.bhambhani@foodlink.in","MessageUUID":"9b02d170-3bb6-4198-a36c-c23f315fea51","MessageID":"576460772589071212","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071212"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.836Z - Priyanka Bhambhani
+2023-10-30T12:44:29.838Z - Siddesh Rokade
+2023-10-30T12:44:29.839Z - priyankabhambhani@gmail.com
+2023-10-30T12:44:29.839Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"priyankabhambhani@gmail.com","MessageUUID":"9d20eae1-1fcd-4bf0-8de0-1315b3da971a","MessageID":"288230396436143530","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143530"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.840Z - saurabh.singhal@fairmont.com
+2023-10-30T12:44:29.840Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"saurabh.singhal@fairmont.com","MessageUUID":"abc72e1a-9dcb-4d7d-baff-56a448d0038e","MessageID":"1152921524894077771","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077771"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.840Z - Mr. Saurabh Singhal
+2023-10-30T12:44:29.841Z - Shaan V Gidwani
+2023-10-30T12:44:29.841Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"shannvgidwani@gmail.com","MessageUUID":"846acfbc-8c3c-4fcc-8087-85ad9267f9cc","MessageID":"1152921524894077772","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077772"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.863Z - Ms. Karishma Kumar
+2023-10-30T12:44:29.841Z - shannvgidwani@gmail.com
+2023-10-30T12:44:29.863Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"karisma77@gmail.com","MessageUUID":"ee2047a6-1cc4-4dfc-9c7f-396825ff00d2","MessageID":"576460772589071214","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071214"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.863Z - karisma77@gmail.com
+2023-10-30T12:44:29.864Z - Mr. Hemant Kale
+2023-10-30T12:44:29.864Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"hemant@swaaha.com","MessageUUID":"020b1a37-d67b-49c1-8bbc-ce8a1f5f77cd","MessageID":"288230396436143532","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143532"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.867Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ravi@wonderchef.in","MessageUUID":"2d78f66d-c1d2-41f6-93fc-627996b09aaf","MessageID":"576460772589071217","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071217"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.864Z - hemant@swaaha.com
+2023-10-30T12:44:29.866Z - Ravi Saxena
+2023-10-30T12:44:29.867Z - ravi@wonderchef.in
+2023-10-30T12:44:29.869Z - deepak.bassi@foodlink.in
+2023-10-30T12:44:29.869Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"deepak.bassi@foodlink.in","MessageUUID":"92782cdb-c76d-482c-a923-eb1ce4395429","MessageID":"576460772589071218","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071218"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.880Z - rachit.thakkar@foodlink.in
+2023-10-30T12:44:29.880Z - Rachit Thakker
+2023-10-30T12:44:29.880Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rachit.thakkar@foodlink.in","MessageUUID":"a6f95b47-bf30-4648-adb0-107b5f5a8755","MessageID":"1152921524894077778","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077778"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.882Z - Amit Bagga
+2023-10-30T12:44:29.869Z - Deepak Bassi
+2023-10-30T12:44:29.882Z - amit@daryaganj.com
+2023-10-30T12:44:29.882Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"amit@daryaganj.com","MessageUUID":"d36cdc80-0b44-4d26-9338-45bda192c4d9","MessageID":"1152921524894077777","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077777"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.883Z - kunal.vijayakar@gmail.com
+2023-10-30T12:44:29.883Z - Kunal Vijayakar
+2023-10-30T12:44:29.883Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"kunal.vijayakar@gmail.com","MessageUUID":"2913a3cd-2d52-4489-85e4-be2f19609561","MessageID":"1152921524894077781","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077781"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.884Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Kunal.Pahwa @itchotels.in","MessageUUID":"82c8bc20-8fca-4e85-ab77-2544101aebc4","MessageID":"1152921524894077780","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077780"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.884Z - Kunal.Pahwa @itchotels.in
+2023-10-30T12:44:29.884Z - Mr. Kunal Pahwa
+2023-10-30T12:44:29.885Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Pankaj9400@gmail.com","MessageUUID":"df2e6527-2024-4a7d-a13c-5ba8234dee73","MessageID":"576460772589071221","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071221"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.888Z - amanbharti720@gmail.com
+2023-10-30T12:44:29.885Z - Mr. Pankaj Khanna
+2023-10-30T12:44:29.885Z - Pankaj9400@gmail.com
+2023-10-30T12:44:29.888Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"amanbharti720@gmail.com","MessageUUID":"e1272abc-322b-4526-9d98-1e3ec6826a20","MessageID":"1152921524894077782","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077782"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.888Z - Ramesh Parmar
+2023-10-30T12:44:29.890Z - Ms. Chaitali Barot
+2023-10-30T12:44:29.890Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"cdoshi1@gmail.com","MessageUUID":"2461cb30-06f2-40b5-9dc8-1cdb4fe47f65","MessageID":"288230396436143533","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143533"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.890Z - cdoshi1@gmail.com
+2023-10-30T12:44:29.891Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"aslamkhan747@gmail.com","MessageUUID":"3ca2a579-0609-4eb5-bff8-2c157439f630","MessageID":"1152921524894077785","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077785"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.891Z - Mr. Aslam Khan (+ 4 )
+2023-10-30T12:44:29.891Z - aslamkhan747@gmail.com
+2023-10-30T12:44:29.894Z - Mr. Akshay Banka
+2023-10-30T12:44:29.894Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"akshaybanka@kpmg.com","MessageUUID":"656108de-d184-4fd6-bda7-e9249ef4b2ba","MessageID":"576460772589071222","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071222"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.896Z - sunnym29@gmail.com
+2023-10-30T12:44:29.894Z - akshaybanka@kpmg.com
+2023-10-30T12:44:29.896Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sunnym29@gmail.com","MessageUUID":"8af1c1e2-0fad-4af5-b98a-d4a474323527","MessageID":"1152921524894077787","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077787"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.895Z - Sunny Muntode
+2023-10-30T12:44:29.897Z - Mazhar.ansari@audimumbaiwest.in
+2023-10-30T12:44:29.897Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Mazhar.ansari@audimumbaiwest.in","MessageUUID":"6af827c2-db4c-4894-a0df-b34ebfa89325","MessageID":"288230396436143534","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143534"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.897Z - Mazhar Ansari
+2023-10-30T12:44:29.942Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ajay.m@ascentcapital.in","MessageUUID":"92c05048-d55a-4155-8fee-15b9900647d4","MessageID":"288230396436143538","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143538"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.945Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mittalsvinita@gmail.com","MessageUUID":"d0a01cf9-64b7-4658-8f1d-8bfe913487b4","MessageID":"1152921524894077789","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077789"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.942Z - ajay.m@ascentcapital.in
+2023-10-30T12:44:29.945Z - Ms. Vinita Sabberwal
+2023-10-30T12:44:29.945Z - mittalsvinita@gmail.com
+2023-10-30T12:44:29.946Z - Nikhil Manek
+2023-10-30T12:44:29.942Z - Mr. Ajay Mittal
+2023-10-30T12:44:29.946Z - nikhil@dyavol.com
+2023-10-30T12:44:29.946Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nikhil@dyavol.com","MessageUUID":"b77ea237-0522-4173-a2f3-270ab5ccf56a","MessageID":"288230396436143537","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143537"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.947Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"harshal.karkhanis@foodlink.in","MessageUUID":"c85fb011-bddd-4eb8-b178-2bce0dc13956","MessageID":"288230396436143539","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143539"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.947Z - harshal.karkhanis@foodlink.in
+2023-10-30T12:44:29.949Z - ahmad@endorphinsentertainment.com
+2023-10-30T12:44:29.947Z - Harshal Karkhanis
+2023-10-30T12:44:29.949Z - Mr. Ahmad Faraz
+2023-10-30T12:44:29.949Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ahmad@endorphinsentertainment.com","MessageUUID":"48b77c44-19e3-4503-b10e-40e9944936bf","MessageID":"1152921524894077792","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077792"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.951Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"vp@joycoindia.com","MessageUUID":"e3ab603b-9dbd-4ac2-bdf7-851f831a968f","MessageID":"1152921524894077790","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077790"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.951Z - vp@joycoindia.com
+2023-10-30T12:44:29.951Z - Sainath
+2023-10-30T12:44:29.953Z - Samrudhi More
+2023-10-30T12:44:29.953Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"samrudhi.more@foodlink.in","MessageUUID":"52017725-e41b-44d1-ad99-aca0d3ae4095","MessageID":"288230396436143540","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143540"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.954Z - Olive4events@gmail.com
+2023-10-30T12:44:29.953Z - JOSEPH JOSE
+2023-10-30T12:44:29.953Z - samrudhi.more@foodlink.in
+2023-10-30T12:44:29.954Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Olive4events@gmail.com","MessageUUID":"b2cc040b-8005-4399-9cf4-e96ad6a52aa9","MessageID":"1152921524894077791","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077791"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.955Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rlad@saksham-group.in","MessageUUID":"c8ce044d-7ed2-459e-9d2b-ad0aab707fbb","MessageID":"288230396436143542","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143542"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.957Z - nilesh2411@live.com
+2023-10-30T12:44:29.955Z - Rajendra Lad
+2023-10-30T12:44:29.955Z - rlad@saksham-group.in
+2023-10-30T12:44:29.957Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nilesh2411@live.com","MessageUUID":"498a20cc-a938-42a5-8d0b-7c792e23ad03","MessageID":"1152921524894077793","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077793"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.980Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ajaygupta001@hotmail.com","MessageUUID":"a2eda8f8-5a1e-4e90-b89a-3dcb0c2d829e","MessageID":"1152921524894077794","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077794"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.957Z - Ms Radhika Nandey
+2023-10-30T12:44:29.980Z - ajaygupta001@hotmail.com
+2023-10-30T12:44:29.982Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"prachi.jaiswal@in.ab-inbev.com","MessageUUID":"23dd242c-fdf7-492e-bf76-f38084c7e576","MessageID":"1152921524894077795","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077795"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.980Z - Mr. Ajay Gupta
+2023-10-30T12:44:29.982Z - prachi.jaiswal@in.ab-inbev.com
+2023-10-30T12:44:29.985Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"darshan@dyavol.com","MessageUUID":"70e43715-26f2-442b-8377-9969d35d15b2","MessageID":"576460772589071227","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071227"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.982Z - Prachi Jaiswal
+2023-10-30T12:44:29.985Z - Darshan Vaswani
+2023-10-30T12:44:29.986Z - Ms. Yasmin morani
+Mr. Aly morani
+Mr. K0arim premji
+Ms. SOPHIA premji
+Ms.Noureen morani
+Ms. Athina morani
+2023-10-30T12:44:29.985Z - darshan@dyavol.com
+2023-10-30T12:44:29.986Z - Moranialy@gmail.com
+2023-10-30T12:44:29.987Z - Anupam@libertyshoes.com
+2023-10-30T12:44:29.986Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Moranialy@gmail.com","MessageUUID":"be19cad5-c718-4e96-82d9-4f489f9d452d","MessageID":"1152921524894077798","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077798"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.987Z - Mr. Anupam Bansal
+2023-10-30T12:44:29.987Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Anupam@libertyshoes.com","MessageUUID":"7c12edd5-550d-4169-bc0c-78c50bcecf19","MessageID":"1152921524894077796","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077796"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.988Z - khushi.koul@in.ab-inbev.com
+2023-10-30T12:44:29.988Z - Khushi Koul
+2023-10-30T12:44:29.988Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"khushi.koul@in.ab-inbev.com","MessageUUID":"6e00c1f3-5628-457d-9803-5da2e5d9b572","MessageID":"288230396436143544","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143544"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.989Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Chetankp@hotmail.com","MessageUUID":"5bc43901-0141-4d31-8d2b-ff6ef77c8f2e","MessageID":"576460772589071228","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071228"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.989Z - Mr. Chetan Purohit (+ Trupti Purohit)
+2023-10-30T12:44:29.992Z - ashwinhrajpal@gmail.com
+2023-10-30T12:44:29.992Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ashwinhrajpal@gmail.com","MessageUUID":"4008b5a2-4643-474c-82d9-8e9cd603f24e","MessageID":"1152921524894077799","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077799"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.992Z - Mr. Ashwin Rajpal
+2023-10-30T12:44:29.989Z - Chetankp@hotmail.com
+2023-10-30T12:44:29.993Z - Zorawar.kalra@massiverestaurants.com
+2023-10-30T12:44:29.993Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Zorawar.kalra@massiverestaurants.com","MessageUUID":"cf309581-663c-467c-9acb-360aefd5802e","MessageID":"1152921524894077797","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077797"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.993Z - Zorawar Kalra
+2023-10-30T12:44:29.994Z - niegeldaniel@gmail.com
+2023-10-30T12:44:29.994Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"niegeldaniel@gmail.com","MessageUUID":"f5fa0857-7a1f-460c-86ba-fdc84c0f7696","MessageID":"1152921524894077801","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077801"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.994Z - Niegel Daniel
+2023-10-30T12:44:29.995Z - Mr. Karam Singh
+2023-10-30T12:44:29.995Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Karam.Singh2209@gmail.com","MessageUUID":"97bbede8-b7c3-4442-b598-6e7a8933e9d7","MessageID":"1152921524894077802","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077802"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.996Z - Mr. Tarsame Mittal
+2023-10-30T12:44:29.995Z - Karam.Singh2209@gmail.com
+2023-10-30T12:44:29.997Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mittaltarsame@gmail.com","MessageUUID":"78375fca-89b6-4369-af42-30fec6f06a5c","MessageID":"576460772589071231","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071231"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:29.996Z - mittaltarsame@gmail.com
+2023-10-30T12:44:29.999Z - Mr. Tanmay Nikam
+2023-10-30T12:44:29.999Z - tannik007@gmail.com
+2023-10-30T12:44:29.999Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"tannik007@gmail.com","MessageUUID":"1aad5655-d5e8-4907-b796-1272c04bbd0f","MessageID":"576460772589071230","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071230"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.001Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"faridi.impex@yahoo.in","MessageUUID":"561a7cf6-6ec3-405d-b360-f32c79fceb60","MessageID":"1152921524894077803","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077803"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.002Z - Mr. Udesh Kejriwal
+2023-10-30T12:44:30.001Z - Rayan Rodrigues
+2023-10-30T12:44:30.001Z - faridi.impex@yahoo.in
+2023-10-30T12:44:30.002Z - udesh@arikaholidays.com
+2023-10-30T12:44:30.002Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"udesh@arikaholidays.com","MessageUUID":"ae817a2c-65e4-40d1-b1fd-b6ebfbb50ae0","MessageID":"1152921524894077804","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077804"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.003Z - kj@joycoindia.com
+2023-10-30T12:44:30.003Z - Vijendra pawaskar
+2023-10-30T12:44:30.003Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"kj@joycoindia.com","MessageUUID":"97373cc3-24ea-4f81-a821-1e1c7b992397","MessageID":"1152921524894077807","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077807"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.006Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"avantecottagecrafts@gmail.com","MessageUUID":"1ccc56dd-50fe-400d-9f76-39abfac5532d","MessageID":"576460772589071232","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071232"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.006Z - Vinay Malani
+2023-10-30T12:44:30.006Z - avantecottagecrafts@gmail.com
+2023-10-30T12:44:30.007Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"poonam.nimbalkar@hungama.com","MessageUUID":"ab3cd035-15ae-4704-bd08-2264f7a6701f","MessageID":"288230396436143546","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143546"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.007Z - poonam.nimbalkar@hungama.com
+2023-10-30T12:44:30.007Z - Ms. Poonam Nimbalkar
+2023-10-30T12:44:30.009Z - vicky.ratnani@gmail.com
+2023-10-30T12:44:30.009Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"vicky.ratnani@gmail.com","MessageUUID":"422167d5-d1f8-4685-ade9-310b27080e2c","MessageID":"1152921524894077805","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077805"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.023Z - karoonapatekar@gmail.com
+2023-10-30T12:44:30.023Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"karoonapatekar@gmail.com","MessageUUID":"7812db39-b4b6-404f-b8aa-fa7bbe02f03d","MessageID":"1152921524894077808","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077808"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.023Z - Ms. Karuna Patekar
+2023-10-30T12:44:30.009Z - Chef Vicky Ratnani
+2023-10-30T12:44:30.024Z - Mr. Anurag rao
+2023-10-30T12:44:30.024Z - anurag@chainreactor.in
+2023-10-30T12:44:30.024Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"anurag@chainreactor.in","MessageUUID":"b5a403da-427f-4ab6-884c-6fd959fa8dd4","MessageID":"576460772589071234","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071234"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.027Z - nilesh2411@live.com
+2023-10-30T12:44:30.027Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nilesh2411@live.com","MessageUUID":"ddba4a32-86a5-46c0-8921-cc7dcec92c4d","MessageID":"576460772589071235","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071235"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.027Z - Nilesh Limaye
+2023-10-30T12:44:30.029Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Pearl@dellagroup.in","MessageUUID":"59178332-8085-4643-98f0-f46ccb79cf81","MessageID":"288230396436143552","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143552"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.028Z - Ms. Pearl Sanga (+1)
+2023-10-30T12:44:30.030Z - prachi.jaiswal@in.ab-inbev.com
+2023-10-30T12:44:30.030Z - Prachi Jaiswal
+2023-10-30T12:44:30.028Z - Pearl@dellagroup.in
+2023-10-30T12:44:30.031Z - Khushbu.mehta1791.km@gmail.com
+2023-10-30T12:44:30.030Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"prachi.jaiswal@in.ab-inbev.com","MessageUUID":"ff56c0b8-1b0b-4199-b41f-a9e3862d6158","MessageID":"1152921524894077820","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077820"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.031Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Khushbu.mehta1791.km@gmail.com","MessageUUID":"005ec794-ac8e-42bd-b1d2-804795ae4fb6","MessageID":"576460772589071236","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071236"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.034Z - sachit.thakur@in.ab-inbev.com
+2023-10-30T12:44:30.034Z - Sachit Thakur
+2023-10-30T12:44:30.031Z - Ms. Khushbu mehta
+2023-10-30T12:44:30.034Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sachit.thakur@in.ab-inbev.com","MessageUUID":"4b2e1492-1638-4e4e-8ed9-ee1c6ffbeb24","MessageID":"288230396436143547","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143547"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.036Z - sales@superenterprises.net.in
+2023-10-30T12:44:30.036Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sales@superenterprises.net.in","MessageUUID":"d986f7e6-0431-4b10-9fa5-b9925ff92cbe","MessageID":"576460772589071238","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071238"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.037Z - Ms. Dolly Kanjani
+2023-10-30T12:44:30.036Z - Mr. Raes faridi
+2023-10-30T12:44:30.037Z - dollykanjani@gmail.com
+2023-10-30T12:44:30.037Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"dollykanjani@gmail.com","MessageUUID":"0d47c703-3bee-4f04-b222-3451e6f8c360","MessageID":"288230396436143550","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143550"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.039Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Nimish.puradkar@audimumbaiwest.in","MessageUUID":"5bb6170b-a0ec-4e35-a2de-03d2a407faed","MessageID":"288230396436143549","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143549"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.039Z - Nimish.puradkar@audimumbaiwest.in
+2023-10-30T12:44:30.041Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Dinika@geneticcallnet.com","MessageUUID":"d9367465-7c48-44f9-a56b-499484d5a23e","MessageID":"288230396436143551","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143551"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.039Z - Nimish Puradkar
+2023-10-30T12:44:30.041Z - Ms. Dinika
+2023-10-30T12:44:30.041Z - Dinika@geneticcallnet.com
+2023-10-30T12:44:30.042Z - Ms. Deepalakshami chabbria
+2023-10-30T12:44:30.042Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Dchabbria13@gmail.Com","MessageUUID":"74675440-64cf-4066-b4da-96b27e09b10b","MessageID":"288230396436143548","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143548"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.043Z - Damandeep
+2023-10-30T12:44:30.042Z - Dchabbria13@gmail.Com
+2023-10-30T12:44:30.043Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Damandeip@gmail.com","MessageUUID":"b39fb4c8-471a-4de5-b816-9e5f25ed71a5","MessageID":"288230396436143554","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143554"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.044Z - sanjay@assetfzc.com
+2023-10-30T12:44:30.043Z - Damandeip@gmail.com
+2023-10-30T12:44:30.044Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sanjay@assetfzc.com","MessageUUID":"f12243ba-5840-468e-8817-28cdbae90f65","MessageID":"288230396436143553","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143553"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.046Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rahul.mudgal@sakshamimpex.com","MessageUUID":"82edc835-71fe-4336-a69d-81cff40dae80","MessageID":"576460772589071239","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071239"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.045Z - Rahul Mudgal
+2023-10-30T12:44:30.044Z - Mr. Sanjay M Lal
+2023-10-30T12:44:30.046Z - rahul.mudgal@sakshamimpex.com
+2023-10-30T12:44:30.048Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"amanbharti720@gmail.com","MessageUUID":"5c9df9f5-940f-4245-81fa-d3e59ba5133a","MessageID":"1152921524894077825","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077825"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.048Z - amanbharti720@gmail.com
+2023-10-30T12:44:30.048Z - Aman Bharti
+2023-10-30T12:44:30.049Z - faridi.impex@yahoo.in
+2023-10-30T12:44:30.049Z - undefined
+2023-10-30T12:44:30.050Z - Mr. Sanjay Tripathy
+2023-10-30T12:44:30.050Z - Sanjay@briskpe.com
+2023-10-30T12:44:30.050Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Sanjay@briskpe.com","MessageUUID":"6691f70b-2f01-40af-aa8e-4e5b3ab937cb","MessageID":"288230396436143556","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143556"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.049Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"faridi.impex@yahoo.in","MessageUUID":"233b78c6-065c-453c-8a00-01825d084009","MessageID":"1152921524894077828","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077828"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.051Z - mmenon@saksham-group.in
+2023-10-30T12:44:30.051Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mmenon@saksham-group.in","MessageUUID":"4d521ec0-340e-4ba4-8872-a5e640bf7602","MessageID":"1152921524894077830","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077830"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.053Z - Olailanails@yahoo.com
+2023-10-30T12:44:30.051Z - Manish Menon
+2023-10-30T12:44:30.052Z - Ms. Nadia Hayat 
+
+Ms. Shardha Gaikwad
+2023-10-30T12:44:30.053Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Olailanails@yahoo.com","MessageUUID":"54b9f06d-4c89-429e-a29c-0451b78edd21","MessageID":"576460772589071241","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071241"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.055Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"monicamurthy4@gmail.com","MessageUUID":"2cd9ea05-c01c-4d42-8ab8-cb3060ff9edb","MessageID":"288230396436143577","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143577"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.055Z - monicamurthy4@gmail.com
+2023-10-30T12:44:30.056Z - Audimumbaiwest.exec@gmail.com
+2023-10-30T12:44:30.056Z - Nandini Mangaonkar
+2023-10-30T12:44:30.055Z - Ms. Monica Murthy
+2023-10-30T12:44:30.056Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Audimumbaiwest.exec@gmail.com","MessageUUID":"12aa978b-45e8-4801-94e6-53ca4473f5cc","MessageID":"288230396436143558","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143558"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.057Z - Mr. Vishal
+2023-10-30T12:44:30.057Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Vishal@geneticcallnet.com","MessageUUID":"790d8e5f-9153-493e-8ecf-06a80441cdde","MessageID":"1152921524894077832","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077832"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.058Z - Pinaki Mukherjee
+2023-10-30T12:44:30.057Z - Vishal@geneticcallnet.com
+2023-10-30T12:44:30.058Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"pinaki21@gmail.com","MessageUUID":"94f77722-044a-4bbd-8c7a-11ddfc5c5a79","MessageID":"1152921524894077836","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077836"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.060Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"saimekal@ssvdistributors.com","MessageUUID":"f6583276-53cf-411c-8d61-9531ad93690c","MessageID":"1152921524894077833","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077833"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.059Z - Vinay
+2023-10-30T12:44:30.060Z - saimekal@ssvdistributors.com
+2023-10-30T12:44:30.058Z - pinaki21@gmail.com
+2023-10-30T12:44:30.062Z - Sanjaykhullar@gmail.com
+2023-10-30T12:44:30.062Z - Mr. Sanjay Khullar (+3 Guest)
+2023-10-30T12:44:30.062Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Sanjaykhullar@gmail.com","MessageUUID":"dcbcbc5d-004e-4da1-bcea-d3381db6ae70","MessageID":"576460772589071244","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071244"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.063Z - Mohit Vichare
+2023-10-30T12:44:30.063Z - mohit.vichare@foodlink.in
+2023-10-30T12:44:30.063Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mohit.vichare@foodlink.in","MessageUUID":"9cdacba4-667b-4f6d-a38d-24711818ab07","MessageID":"288230396436143580","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143580"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.064Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"khannashipra20@gmail.com","MessageUUID":"0adbbb25-bd29-4eea-a28c-6deca96e50f5","MessageID":"1152921524894077835","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077835"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.064Z - Chef Shipra Khanna
+2023-10-30T12:44:30.064Z - khannashipra20@gmail.com
+2023-10-30T12:44:30.065Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"avantiarts@gmail.com","MessageUUID":"6c47a094-a21e-4597-be0a-f6e38b63745a","MessageID":"1152921524894077837","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077837"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.066Z - Pushpa.niki@gmail.com
+2023-10-30T12:44:30.065Z - avantiarts@gmail.com
+2023-10-30T12:44:30.066Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Pushpa.niki@gmail.com","MessageUUID":"454b1084-6720-420d-9c92-81f1b6b33fd3","MessageID":"1152921524894077838","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077838"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.065Z - Mr. Rajeev Chaudhari
+2023-10-30T12:44:30.068Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Vaibhavmota@gmail.com","MessageUUID":"889b41d8-1e5d-4540-b0ea-d10c976af3a6","MessageID":"1152921524894077839","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077839"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.068Z - Mr. Vaibhav Mota
+2023-10-30T12:44:30.068Z - Vaibhavmota@gmail.com
+2023-10-30T12:44:30.066Z - Ms. Pushpa Singh
+2023-10-30T12:44:30.069Z - Mr. Satyabrata Das
+2023-10-30T12:44:30.070Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"satya.d@laqshyagroup.com","MessageUUID":"aa8fca6a-cc4c-434d-b496-6d7d1fb1f46e","MessageID":"576460772589071246","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071246"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.071Z - iamsagarikayadav@gmail.com
+2023-10-30T12:44:30.070Z - satya.d@laqshyagroup.com
+2023-10-30T12:44:30.072Z - Mr. Bhaskar Sharma
+
+Ms. Poonam Sharma
+
+2023-10-30T12:44:30.071Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"iamsagarikayadav@gmail.com","MessageUUID":"aa291ceb-7dc9-419e-b3e3-9036f4fc5357","MessageID":"1152921524894077841","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077841"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.071Z - Sagarika Yadav
+2023-10-30T12:44:30.072Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Bhaskar.sharma@redbull.com","MessageUUID":"8cb6f3fe-891e-4cc9-aa13-b97ea6b8e940","MessageID":"1152921524894077842","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077842"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.073Z - shridhar.nair@theleela.com
+2023-10-30T12:44:30.073Z - Shridhar Nair
+2023-10-30T12:44:30.072Z - Bhaskar.sharma@redbull.com
+2023-10-30T12:44:30.073Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"shridhar.nair@theleela.com","MessageUUID":"4fa23da7-ce11-414c-b44a-e0f1a2dc4554","MessageID":"1152921524894077840","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077840"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.076Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"payal.chavan@wonderchef.in","MessageUUID":"ff6e24ea-c9bb-4b78-a0d9-8146265d7da1","MessageID":"1152921524894077843","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077843"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.075Z - Payal Chavan
+2023-10-30T12:44:30.076Z - payal.chavan@wonderchef.in
+2023-10-30T12:44:30.077Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"kashishseetlani@gmail.com","MessageUUID":"b84bb91d-e075-4fd4-9fd1-2961357f5132","MessageID":"1152921524894077849","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077849"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.077Z - Ms. Kashish Seetlani
+2023-10-30T12:44:30.078Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"supreeta@dyavolx.com","MessageUUID":"702b8a75-ef72-4417-940b-69294ed43673","MessageID":"1152921524894077846","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077846"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.077Z - kashishseetlani@gmail.com
+2023-10-30T12:44:30.078Z - supreeta@dyavolx.com
+2023-10-30T12:44:30.079Z - kshinde@saksham-group.in
+2023-10-30T12:44:30.078Z - Supreeta Dubey
+2023-10-30T12:44:30.079Z - Kiran shinde
+2023-10-30T12:44:30.082Z - Sujaya@capstonepeople.com
+2023-10-30T12:44:30.079Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"kshinde@saksham-group.in","MessageUUID":"3ea1ed37-9f57-4cc5-a99d-60d09f4e6c84","MessageID":"1152921524894077848","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077848"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.082Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Sujaya@capstonepeople.com","MessageUUID":"14da87b8-e95c-47fc-a8f7-5e27d97f2b70","MessageID":"288230396436143584","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143584"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.084Z - vaarun@le15.com
+2023-10-30T12:44:30.084Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"vaarun@le15.com","MessageUUID":"5379dd3c-8ad6-4856-a437-2503a7651ab1","MessageID":"288230396436143585","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143585"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.082Z - Dr Sujaya Banerjee
+2023-10-30T12:44:30.084Z - Varun Dhingra
+2023-10-30T12:44:30.084Z - ayush.kapur1@in.ab-inbev.com
+2023-10-30T12:44:30.085Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ayush.kapur1@in.ab-inbev.com","MessageUUID":"63d22d5e-fa13-4dd8-95fe-e0dda7faa87d","MessageID":"1152921524894077847","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077847"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.084Z - Ayusk Kapur
+2023-10-30T12:44:30.085Z - Pawan shewale
+2023-10-30T12:44:30.085Z - mumbaifoodtraders@gmail.com
+2023-10-30T12:44:30.085Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mumbaifoodtraders@gmail.com","MessageUUID":"fe693cae-4979-4f44-a137-a8ddbfbbf385","MessageID":"288230396436143583","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143583"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.087Z - austin.fernandes@in.ab-inbev.com
+2023-10-30T12:44:30.087Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"austin.fernandes@in.ab-inbev.com","MessageUUID":"4e944262-4805-4685-ac5e-504e03fa271c","MessageID":"576460772589071250","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071250"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.089Z - Mr. Labony kaushal
+2023-10-30T12:44:30.089Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"thesisterhoodcompany@gmail.com","MessageUUID":"d8fdcfd4-ffce-4396-b3f7-c03713d739ef","MessageID":"576460772589071249","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071249"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.086Z - Austin Fernandes
+2023-10-30T12:44:30.089Z - thesisterhoodcompany@gmail.com
+2023-10-30T12:44:30.091Z - Ms. Namrata Sheth
+2023-10-30T12:44:30.091Z - namsheth79@gmail.com
+2023-10-30T12:44:30.091Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"namsheth79@gmail.com","MessageUUID":"0ce9fcda-b1c2-4b67-83d3-d6c46acf8cc4","MessageID":"1152921524894077850","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077850"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.092Z - Mr. Chinmay Dhuwali
+2023-10-30T12:44:30.092Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Chinmay.d12@gmail.com","MessageUUID":"e2cfc539-d634-44c5-8fd8-2b7b588b021f","MessageID":"288230396436143587","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143587"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.092Z - Chinmay.d12@gmail.com
+2023-10-30T12:44:30.093Z - Ms. Ayesha Ahuja
+2023-10-30T12:44:30.094Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Ayesha@cococart.com","MessageUUID":"ac97bd9c-a308-489c-b63c-1a79f40fd42b","MessageID":"576460772589071251","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071251"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.096Z - Mr. Vasant Bhandari
+2023-10-30T12:44:30.097Z - vbhandari6666@gmail.com
+2023-10-30T12:44:30.094Z - Ayesha@cococart.com
+2023-10-30T12:44:30.097Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"vbhandari6666@gmail.com","MessageUUID":"90be79b2-6f8e-4501-93d7-80f1f41a6e3d","MessageID":"288230396436143586","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143586"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.098Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"supreeta@dyavolx.com","MessageUUID":"46c9a2ec-e469-4807-8b20-aed7013dc141","MessageID":"1152921524894077855","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077855"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.098Z - Supreeta Dubey
+2023-10-30T12:44:30.099Z - rayan.rodrigues@k-corp.in
+2023-10-30T12:44:30.099Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rayan.rodrigues@k-corp.in","MessageUUID":"185f80cc-443b-4fdc-8395-2db9356e8149","MessageID":"576460772589071252","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071252"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.100Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"arjungoel77@gmail.com","MessageUUID":"11b925a4-8665-44e5-ad13-f74d186b513a","MessageID":"1152921524894077856","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077856"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.098Z - supreeta@dyavolx.com
+2023-10-30T12:44:30.099Z - kaustubh joyco
+2023-10-30T12:44:30.100Z - Mr. Arjun Goel
+2023-10-30T12:44:30.100Z - arjungoel77@gmail.com
+2023-10-30T12:44:30.102Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"vinayibhasin@yahoo.com","MessageUUID":"f0a90c6e-a026-451a-96b9-9ba6509c5d03","MessageID":"576460772589071254","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071254"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.102Z - vinayibhasin@yahoo.com
+2023-10-30T12:44:30.102Z - Mr. Vinay Bhasin & Ms. Kiran Bawa
+2023-10-30T12:44:30.104Z - Anand Athavale
+2023-10-30T12:44:30.104Z - anand.athavale@theleela.com
+2023-10-30T12:44:30.104Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"anand.athavale@theleela.com","MessageUUID":"939280f8-9c81-41c2-bb8a-2840ef2ce228","MessageID":"288230396436143591","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143591"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.105Z - Claudia.enquiry@gmail.com
+2023-10-30T12:44:30.105Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Claudia.enquiry@gmail.com","MessageUUID":"a0eab28d-0e52-49de-8c06-347f1f78ddd8","MessageID":"1152921524894077857","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077857"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.106Z - suprit.karkera@bookmyshow.com
+2023-10-30T12:44:30.105Z - Ms. Claudia Ciesla
+2023-10-30T12:44:30.106Z - Mr. Suprit Karkera
+2023-10-30T12:44:30.106Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"suprit.karkera@bookmyshow.com","MessageUUID":"fba7ecc8-f9de-48b3-b724-536d2e4f65e5","MessageID":"288230396436143590","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143590"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.107Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"eventskomal@gmail.com","MessageUUID":"4b5e9e19-31d2-49d6-9e50-17d5b22cec3f","MessageID":"288230396436143592","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143592"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.107Z - Ms. Komal Kothari
+2023-10-30T12:44:30.107Z - eventskomal@gmail.com
+2023-10-30T12:44:30.109Z - rahul.mudgal@sakshamimpex.com
+2023-10-30T12:44:30.109Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rahul.mudgal@sakshamimpex.com","MessageUUID":"cf9cc6d1-5436-44df-b112-6b3c37984db6","MessageID":"576460772589071261","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071261"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.111Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"dars1977@gmail.com","MessageUUID":"5c298b7d-a217-41a2-9ea7-817c1078af02","MessageID":"288230396436143600","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143600"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.111Z - dars1977@gmail.com
+2023-10-30T12:44:30.109Z - Rahul Mudgal
+2023-10-30T12:44:30.111Z - Mr. Darshan sheth
+2023-10-30T12:44:30.112Z - saimekal@ssvdistributors.com
+2023-10-30T12:44:30.112Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"saimekal@ssvdistributors.com","MessageUUID":"d1c94eb4-a19c-45f2-bc19-c3c2b0b15e33","MessageID":"1152921524894077866","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077866"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.113Z - Mr. Naveen Singh
+2023-10-30T12:44:30.112Z - Sainath
+2023-10-30T12:44:30.114Z - naveensingh.knp@gmail.com
+2023-10-30T12:44:30.114Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"naveensingh.knp@gmail.com","MessageUUID":"f28a9f8c-cf50-45ca-80fb-4b5ce26f9379","MessageID":"576460772589071264","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071264"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.117Z - Vijendra pawaskar
+2023-10-30T12:44:30.117Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"vp@joycoindia.com","MessageUUID":"d5f390d6-9fea-4cf5-8e81-2440e3292aa4","MessageID":"576460772589071263","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071263"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.132Z - Vaibhav Gaulkar
+2023-10-30T12:44:30.132Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"vgaulkar@saksham-group.in","MessageUUID":"f69bef52-468e-41bd-8513-0c32da8ab868","MessageID":"576460772589071266","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071266"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.132Z - vgaulkar@saksham-group.in
+2023-10-30T12:44:30.133Z - Anuraag Bhatnagar
+2023-10-30T12:44:30.133Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"anuraag.bhatnagar@theleela.com","MessageUUID":"e66911ab-30f7-4914-ad0e-e5fac2c6ce34","MessageID":"1152921524894077871","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077871"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.117Z - vp@joycoindia.com
+2023-10-30T12:44:30.133Z - anuraag.bhatnagar@theleela.com
+2023-10-30T12:44:30.134Z - faridi.impex@yahoo.in
+2023-10-30T12:44:30.134Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"faridi.impex@yahoo.in","MessageUUID":"3c699dea-badf-4918-9df8-6ad1211da5c0","MessageID":"288230396436143601","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143601"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.134Z - Mr. Raes faridi
+2023-10-30T12:44:30.134Z - Shipra@shiprakhanna.com
+2023-10-30T12:44:30.134Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Shipra@shiprakhanna.com","MessageUUID":"9711cf57-4b40-4c11-818b-ddef33a236f9","MessageID":"1152921524894077870","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077870"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.134Z - Shipra Khanna
+2023-10-30T12:44:30.136Z - megha.ajgaonkar@theleela.com
+2023-10-30T12:44:30.137Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"megha.ajgaonkar@theleela.com","MessageUUID":"b31070c8-fc9f-432f-936e-f4448e8a0539","MessageID":"1152921524894077869","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077869"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.139Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rajeshnm83@yahoo.com","MessageUUID":"326cf2b0-79be-4b0d-8980-805550a2911c","MessageID":"576460772589071262","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071262"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.139Z - Mr. Rajesh Choudhary
+2023-10-30T12:44:30.139Z - rajeshnm83@yahoo.com
+2023-10-30T12:44:30.136Z - Megha Ajgaonkar
+2023-10-30T12:44:30.139Z - rayan.rodrigues@k-corp.in
+2023-10-30T12:44:30.139Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rayan.rodrigues@k-corp.in","MessageUUID":"2c1d05e3-57be-42d7-a36b-824e648d1fce","MessageID":"288230396436143599","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143599"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.140Z - Darshan Vaswani
+2023-10-30T12:44:30.139Z - Rayan Rodrigues
+2023-10-30T12:44:30.140Z - darshan@dyavol.com
+2023-10-30T12:44:30.141Z - Azita Ramodiya Sakre
+2023-10-30T12:44:30.141Z - azita.ramodiya@theleela.com
+2023-10-30T12:44:30.140Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"darshan@dyavol.com","MessageUUID":"de4fa7a2-b59b-4807-88d6-3d030a261f72","MessageID":"288230396436143610","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143610"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.144Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"javed.momin@in.ab-inbev.com","MessageUUID":"b7e0396a-8ac7-46b2-9644-a133ea7858b2","MessageID":"1152921524894077880","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077880"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.144Z - Javed Momin
+2023-10-30T12:44:30.144Z - javed.momin@in.ab-inbev.com
+2023-10-30T12:44:30.141Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"azita.ramodiya@theleela.com","MessageUUID":"8f3dc3f0-ba52-458d-ae13-ea60655534b0","MessageID":"288230396436143618","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143618"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.147Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mumbaifoodtraders@gmail.com","MessageUUID":"f30bd4fb-8fd5-4789-8fae-dcd93c84fcac","MessageID":"288230396436143604","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143604"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.148Z - Ms. Hemal Solanki Bhagwat
+2023-10-30T12:44:30.147Z - Vinay
+2023-10-30T12:44:30.147Z - mumbaifoodtraders@gmail.com
+2023-10-30T12:44:30.148Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"hemal@mercuryintegrated.com","MessageUUID":"34acca87-2cde-40ff-a356-8ce94eb769df","MessageID":"1152921524894077875","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077875"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.148Z - hemal@mercuryintegrated.com
+2023-10-30T12:44:30.151Z - Deliz Manthanam
+2023-10-30T12:44:30.151Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"dee@foodlink.in","MessageUUID":"1abbc42c-7c05-444e-8344-2563ad4b4afa","MessageID":"288230396436143603","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143603"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.153Z - kaustubh joyco
+2023-10-30T12:44:30.151Z - dee@foodlink.in
+2023-10-30T12:44:30.153Z - kj@joycoindia.com
+2023-10-30T12:44:30.153Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"kj@joycoindia.com","MessageUUID":"bf82038b-b444-47da-a687-95ae352b88c3","MessageID":"576460772589071267","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071267"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.154Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mastakarv@gmail.com","MessageUUID":"cb884a2b-45ff-4b2c-b63a-8b405702e465","MessageID":"288230396436143611","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143611"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.154Z - mastakarv@gmail.com
+2023-10-30T12:44:30.155Z - mmenon@saksham-group.in
+2023-10-30T12:44:30.154Z - Ekta Mastakar
+2023-10-30T12:44:30.155Z - Manish Menon
+2023-10-30T12:44:30.155Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mmenon@saksham-group.in","MessageUUID":"e77a2fef-f370-4e8a-8343-366f3df41658","MessageID":"288230396436143602","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143602"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.156Z - Karan Tanna
+2023-10-30T12:44:30.156Z - Kt@ghostkitchensindia.com
+2023-10-30T12:44:30.156Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Kt@ghostkitchensindia.com","MessageUUID":"9b35cde2-c920-4425-8caf-630fe188b7f5","MessageID":"576460772589071268","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071268"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.159Z - Sharad Puri
+2023-10-30T12:44:30.159Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sharad.puri@theleela.com","MessageUUID":"ee37709e-e5c1-4c9d-aad9-7bb5d32217c0","MessageID":"288230396436143613","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143613"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.161Z - sunnym29@gmail.com
+2023-10-30T12:44:30.161Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sunnym29@gmail.com","MessageUUID":"98b1af49-2ae0-431d-8efd-4503ba9edbd5","MessageID":"1152921524894077874","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077874"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.161Z - Rajendra Lad
+2023-10-30T12:44:30.159Z - sharad.puri@theleela.com
+2023-10-30T12:44:30.160Z - Sunny Muntode
+2023-10-30T12:44:30.162Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rlad@saksham-group.in","MessageUUID":"3d8d4a5a-1c28-4884-895b-68c822557f24","MessageID":"576460772589071269","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071269"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.161Z - rlad@saksham-group.in
+2023-10-30T12:44:30.162Z - Chef Kunal Kapur
+2023-10-30T12:44:30.162Z - chefkunal@gmail.com
+2023-10-30T12:44:30.162Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"chefkunal@gmail.com","MessageUUID":"2778a315-c458-4cc7-bf4a-8d175e364668","MessageID":"1152921524894077876","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077876"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.165Z - deepak@vinsanworld.com
+2023-10-30T12:44:30.165Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"deepak@vinsanworld.com","MessageUUID":"4dd3fc95-51b5-4031-b356-ba2fff184653","MessageID":"288230396436143608","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143608"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.167Z - mrcoconut.jaipur@gmail.com
+2023-10-30T12:44:30.167Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mrcoconut.jaipur@gmail.com","MessageUUID":"b55830d1-7540-4ffd-bef7-b09f98ddf71f","MessageID":"576460772589071270","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071270"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.167Z - JAI KISHAN
+2023-10-30T12:44:30.168Z - khushi.koul@in.ab-inbev.com
+2023-10-30T12:44:30.168Z - Khushi Koul
+2023-10-30T12:44:30.165Z - Mr. Deepak Thandassery
+2023-10-30T12:44:30.168Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"khushi.koul@in.ab-inbev.com","MessageUUID":"57513116-2b8e-4776-9719-477a00308582","MessageID":"288230396436143612","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143612"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.169Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sales@superenterprises.net.in","MessageUUID":"f95890bb-8a9b-49b0-b7bc-d6dc7d54f8da","MessageID":"288230396436143614","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143614"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.169Z - sales@superenterprises.net.in
+2023-10-30T12:44:30.170Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ashishpatekar@gmail.com","MessageUUID":"009148ba-b1f6-42ef-8b01-90cd6476acc6","MessageID":"1152921524894077878","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077878"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.170Z - ashishpatekar@gmail.com
+2023-10-30T12:44:30.169Z - Pawan shewale
+2023-10-30T12:44:30.170Z - Mr. Ashish Patekar
+2023-10-30T12:44:30.173Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mrcoconut.jaipur@gmail.com","MessageUUID":"f83d4084-2f21-4b31-83cd-7eff9aa819b3","MessageID":"288230396436143609","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143609"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.173Z - SHIVAM AGARWAL
+2023-10-30T12:44:30.173Z - mrcoconut.jaipur@gmail.com
+2023-10-30T12:44:30.186Z - Javed Momin
+2023-10-30T12:44:30.186Z - javed.momin@in.ab-inbev.com
+2023-10-30T12:44:30.186Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"javed.momin@in.ab-inbev.com","MessageUUID":"31503e1f-7807-4849-baa3-55154b2cc94f","MessageID":"1152921524894077879","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894077879"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.188Z - austin.fernandes@in.ab-inbev.com
+2023-10-30T12:44:30.188Z - Austin Fernandes
+2023-10-30T12:44:30.188Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"austin.fernandes@in.ab-inbev.com","MessageUUID":"b62eea2c-07bc-4d4d-805a-640139a28017","MessageID":"288230396436143615","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143615"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.603Z - sushantshetty0109@gmail.com
+2023-10-30T12:44:30.603Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sushantshetty0109@gmail.com","MessageUUID":"5e7b2229-5b01-47b5-b712-b3002227c1e3","MessageID":"288230396436143935","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143935"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.602Z - Sneha Shetty
+2023-10-30T12:44:30.605Z - Nitin.Kashid@theicecreambakery.in
+2023-10-30T12:44:30.606Z - pratik@yoloent.in
+2023-10-30T12:44:30.605Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Nitin.Kashid@theicecreambakery.in","MessageUUID":"9e0245d9-c827-4aeb-ad3c-2ff5a252cde3","MessageID":"1152921524894078097","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078097"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.606Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"pratik@yoloent.in","MessageUUID":"c4663d7e-ed4b-4517-b5af-89cb4595ae6b","MessageID":"288230396436143934","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143934"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.620Z - Ms. Meghna Dalmia
+2023-10-30T12:44:30.605Z - Nitin
+2023-10-30T12:44:30.606Z - Mr. Pratik Hemdev
+2023-10-30T12:44:30.620Z - meghnadalmia1@gmail.com
+2023-10-30T12:44:30.620Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"meghnadalmia1@gmail.com","MessageUUID":"78df1d5a-687b-4b7a-b51e-62616b27dbe0","MessageID":"288230396436143941","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143941"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.621Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"anand.athavale@theleela.com","MessageUUID":"5616ab3c-7723-42f1-890e-e29f3a7dceef","MessageID":"288230396436143938","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143938"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.621Z - anand.athavale@theleela.com
+2023-10-30T12:44:30.621Z - Anand Athavale
+2023-10-30T12:44:30.624Z - Mr. Jaspal singh saddal
+2023-10-30T12:44:30.624Z - jaspal312@gmail.com
+2023-10-30T12:44:30.624Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"jaspal312@gmail.com","MessageUUID":"587e49ab-819e-4066-8cd8-8c178781f792","MessageID":"1152921524894078103","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078103"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.625Z - Virender Razdan
+2023-10-30T12:44:30.626Z - virender.razdan@theleela.com
+2023-10-30T12:44:30.626Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"virender.razdan@theleela.com","MessageUUID":"e5f50db8-ca43-4c76-8815-e1803405bb5e","MessageID":"1152921524894078105","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078105"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.626Z - Sachin Wagh
+2023-10-30T12:44:30.626Z - sachin.wagh@foodlink.in
+2023-10-30T12:44:30.627Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sachin.wagh@foodlink.in","MessageUUID":"6bfba522-0cbb-4eb3-8eee-98b85ce080f7","MessageID":"1152921524894078104","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078104"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.627Z - aditya@motwane.co
+2023-10-30T12:44:30.627Z - Mr. Aditya Motwane
+2023-10-30T12:44:30.627Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"aditya@motwane.co","MessageUUID":"5a6a5d37-5326-4c07-be21-f7b7631c8999","MessageID":"1152921524894078098","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078098"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.628Z - Ajay Sharma
+2023-10-30T12:44:30.628Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"aaryaacaterers@gmail.com","MessageUUID":"e0a17b4a-d731-45ca-afcb-14a1e35a66d3","MessageID":"288230396436143937","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143937"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.641Z - Amit
+2023-10-30T12:44:30.628Z - aaryaacaterers@gmail.com
+2023-10-30T12:44:30.641Z - me@samiirhalady.com
+2023-10-30T12:44:30.668Z - keyur@u2entertainment.com
+2023-10-30T12:44:30.668Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"keyur@u2entertainment.com","MessageUUID":"539c28d2-a8f5-4032-b1e4-c4cace9450e7","MessageID":"288230396436143939","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143939"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.641Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"me@samiirhalady.com","MessageUUID":"62ff220c-661e-41c1-b06c-e2cde1066dab","MessageID":"576460772589071597","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071597"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.668Z - Mr. Keyur Shah
+2023-10-30T12:44:30.669Z - SawantAA@state.gov
+2023-10-30T12:44:30.669Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"SawantAA@state.gov","MessageUUID":"d749314d-0e44-4eda-8406-ad9aea6d6a83","MessageID":"288230396436143936","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143936"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.669Z - Ms. Arundhati Sawant
+2023-10-30T12:44:30.670Z - Jyoti Maity
+2023-10-30T12:44:30.670Z - jyoti.maity@wonderchef.in
+2023-10-30T12:44:30.682Z - Azita Ramodiya Sakre
+2023-10-30T12:44:30.670Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"jyoti.maity@wonderchef.in","MessageUUID":"e9fae0d5-8e4b-4279-bd10-29631ef2ac34","MessageID":"1152921524894078106","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078106"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.683Z - azita.ramodiya@theleela.com
+2023-10-30T12:44:30.683Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"azita.ramodiya@theleela.com","MessageUUID":"b0948ffe-ec6b-4747-b3f8-3be07d2d2dd7","MessageID":"1152921524894078101","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078101"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.684Z - sachit.thakur@in.ab-inbev.com
+2023-10-30T12:44:30.685Z - ayush.kapur1@in.ab-inbev.com
+2023-10-30T12:44:30.684Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sachit.thakur@in.ab-inbev.com","MessageUUID":"fba891f7-c052-4e38-bd92-62e611d50945","MessageID":"1152921524894078102","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078102"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.685Z - Ayusk Kapur
+2023-10-30T12:44:30.683Z - Sachit Thakur
+2023-10-30T12:44:30.685Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ayush.kapur1@in.ab-inbev.com","MessageUUID":"49efb731-1b55-4aa0-a948-8e76dd18a991","MessageID":"576460772589071599","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071599"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.688Z - Anmol Pancholy
+2023-10-30T12:44:30.688Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"anmol.pancholy@theleela.com","MessageUUID":"3f2c5a71-9ccd-4f92-82f2-d791a9c01878","MessageID":"288230396436143946","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143946"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.690Z - Kiran shinde
+2023-10-30T12:44:30.690Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"kshinde@saksham-group.in","MessageUUID":"e2519aaa-51ff-403e-b2b8-e4e7092202cf","MessageID":"288230396436143943","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143943"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.691Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rajesh.ambokar1@gmail.com","MessageUUID":"9bf9c45c-e92e-43e2-aac6-16898866acd0","MessageID":"576460772589071601","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071601"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.688Z - anmol.pancholy@theleela.com
+2023-10-30T12:44:30.690Z - kshinde@saksham-group.in
+2023-10-30T12:44:30.691Z - Mr. Rajesh Ambokar
+2023-10-30T12:44:30.692Z - Mr. Nagendra Rathor
+2023-10-30T12:44:30.693Z - nagendra139@rediffmail.com
+2023-10-30T12:44:30.693Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nagendra139@rediffmail.com","MessageUUID":"4ec59de0-45c7-4f5a-96fc-1a8d82a502b1","MessageID":"288230396436143945","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143945"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.694Z - Rodney@badboy.productions
+2023-10-30T12:44:30.691Z - rajesh.ambokar1@gmail.com
+2023-10-30T12:44:30.694Z - Mr. Rodney
+2023-10-30T12:44:30.694Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Rodney@badboy.productions","MessageUUID":"25a8193b-781a-41a7-96c9-1143531f77a7","MessageID":"1152921524894078108","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078108"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.706Z - Mr. Jaydeep Banerjee
+2023-10-30T12:44:30.707Z - jaydeep.banerjee@me.com
+2023-10-30T12:44:30.707Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"jaydeep.banerjee@me.com","MessageUUID":"80d7c2b3-bc5b-44e6-a0a8-afb11f2e1878","MessageID":"288230396436143949","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143949"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.710Z - Nikunj Agarwal
+2023-10-30T12:44:30.710Z - nikunj@dyavolx.com
+2023-10-30T12:44:30.710Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nikunj@dyavolx.com","MessageUUID":"b0549eb0-f308-4410-9d22-09917ae43c7f","MessageID":"288230396436143947","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143947"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.711Z - nikhil@dyavol.com
+2023-10-30T12:44:30.711Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nikhil@dyavol.com","MessageUUID":"980be2b9-175f-462b-a886-9abe691f5768","MessageID":"576460772589071602","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071602"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.713Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"vgaulkar@saksham-group.in","MessageUUID":"d5e9b99a-ba76-43bf-a239-32c7e4348f4d","MessageID":"288230396436143950","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143950"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.713Z - vgaulkar@saksham-group.in
+2023-10-30T12:44:30.711Z - Nikhil Manek
+2023-10-30T12:44:30.713Z - Vaibhav Gaulkar
+2023-10-30T12:44:30.715Z - Khushboo.solanki@inventumglobal.com
+2023-10-30T12:44:30.715Z - Ms. Khushboo Solanki
+2023-10-30T12:44:30.715Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Khushboo.solanki@inventumglobal.com","MessageUUID":"269a53ac-3632-4813-922b-26dc8e6543dc","MessageID":"288230396436143954","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143954"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.717Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"deepak.verma@theleela.com","MessageUUID":"7b8a0f7e-e2e6-454b-adc4-ecc867ede3c2","MessageID":"288230396436143953","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143953"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.717Z - deepak.verma@theleela.com 
+2023-10-30T12:44:30.718Z - Mohinder Singh
+2023-10-30T12:44:30.718Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"mohinder167@yahoo.co.in","MessageUUID":"04e82dfc-9c6e-4bc6-a78c-e373a52645d9","MessageID":"288230396436143956","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143956"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.716Z - Deepak Verma
+2023-10-30T12:44:30.718Z - mohinder167@yahoo.co.in
+2023-10-30T12:44:30.722Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Kketanhs@gmail.com","MessageUUID":"18e3b25c-462f-44de-b887-8276009532d1","MessageID":"288230396436143955","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143955"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.721Z - Kketanhs@gmail.com
+2023-10-30T12:44:30.721Z - Mr. Ketan Shah
+2023-10-30T12:44:30.724Z - Mr. Vibhor Hasija
+2023-10-30T12:44:30.726Z - aayushman@representmgmt.in
+2023-10-30T12:44:30.726Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"aayushman@representmgmt.in","MessageUUID":"722f72c3-fb3a-4811-95ce-df86710f5307","MessageID":"576460772589071606","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071606"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.724Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Vibhor@yourseventfully.com","MessageUUID":"8531b9bf-d797-4650-9ca4-875f72216ebf","MessageID":"1152921524894078112","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078112"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.728Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ajay.sheer@gmail.com","MessageUUID":"5bf76c05-bad2-41af-822e-88763d6171e9","MessageID":"1152921524894078113","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078113"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.725Z - Mr. Aayushman Sinha
+2023-10-30T12:44:30.724Z - Vibhor@yourseventfully.com
+2023-10-30T12:44:30.730Z - nikunj@dyavolx.com
+2023-10-30T12:44:30.728Z - ajay.sheer@gmail.com
+2023-10-30T12:44:30.728Z - Mr. Ajay Prajapati
+2023-10-30T12:44:30.730Z - Nikunj Agarwal
+2023-10-30T12:44:30.730Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"nikunj@dyavolx.com","MessageUUID":"a147006d-5a23-41b2-94f9-a069ba3aafc0","MessageID":"1152921524894078115","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078115"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.731Z - Shilpa Girdhar
+2023-10-30T12:44:30.731Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"shilpa.girdhar@wonderchef.in","MessageUUID":"12ec221b-db3b-4e42-bb26-15b57ef73291","MessageID":"576460772589071605","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071605"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.733Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"harshad@toastevents.in","MessageUUID":"af929e51-19ea-4101-ac0d-954a1fe2da52","MessageID":"288230396436143957","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143957"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.733Z - Mr. Harshad Chavan
+2023-10-30T12:44:30.731Z - shilpa.girdhar@wonderchef.in
+2023-10-30T12:44:30.735Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rajesh.chakrabarti@gmail.com","MessageUUID":"8d170da1-7e11-43cf-a667-097495294089","MessageID":"576460772589071608","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772589071608"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.733Z - harshad@toastevents.in
+2023-10-30T12:44:30.735Z - Mr. Rajesh CHAKRABARTI
+2023-10-30T12:44:30.735Z - rajesh.chakrabarti@gmail.com
+2023-10-30T12:44:30.737Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"monicashahani@hotmail.com","MessageUUID":"3de9798a-82e5-45a4-9a75-e077ba5a58a1","MessageID":"288230396436143958","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396436143958"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.737Z - Monica Singh
+2023-10-30T12:44:30.737Z - monicashahani@hotmail.com
+2023-10-30T12:44:30.738Z - Mrs. Henna Mota
+2023-10-30T12:44:30.738Z - Hennakhona1@gmail.com
+2023-10-30T12:44:30.738Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Hennakhona1@gmail.com","MessageUUID":"492438e3-e6b1-4b3a-a0cd-898c355d8176","MessageID":"1152921524894078118","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078118"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.739Z - Dhruti.negandhi@gmail.com
+2023-10-30T12:44:30.739Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"Dhruti.negandhi@gmail.com","MessageUUID":"ee7093e5-0345-4b54-9276-f8a7af04399f","MessageID":"1152921524894078119","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078119"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.739Z - Ms. Dhruti
+2023-10-30T12:44:30.740Z - Mr. Ketan Phatak
+2023-10-30T12:44:30.740Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"ketan.phatak@ril.com","MessageUUID":"e9e4ff40-c0c4-4123-ba7f-e3fe7cf3f946","MessageID":"1152921524894078120","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524894078120"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T12:44:30.740Z - ketan.phatak@ril.com
+2023-10-30T13:26:52.244Z - This is a log message.
