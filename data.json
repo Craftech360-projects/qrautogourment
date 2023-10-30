@@ -1,14 +1,15 @@
 [
   {
-    "name": "Sanjay",
-    "phoneNumber": "123-456-7890",
-    "email": "sanjay@example.com"
-  },
-  {
     "name": "Rudresh",
     "phoneNumber": "987-654-3210",
     "email": "rudresh@example.com"
   },
+  {
+    "name": "Sanjay",
+    "phoneNumber": "123-456-7890",
+    "email": "sanjay@craftech360.com"
+  },
+ 
   {
     "name": "Abilash",
     "phoneNumber": "555-555-5555",
@@ -17,6 +18,6 @@
   {
     "name": "Sachin",
     "phoneNumber": "888-888-8888",
-    "email": "sachin@example.com"
+    "email": "sanjaysnanjunda@gmail.com"
   }
 ]
