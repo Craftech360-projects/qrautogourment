@@ -1,11 +1,13 @@
 const fs = require('fs');
-const data = require('./data1.json');
+// const data = require('./data1.json');
+const data = require('./data30.json');
 const logger = require('./logger');
 logger.log('This is a log message.');
 for (let index = 0; index < 361; index++) {
   var people= data[index];
   const { name, email, code } = people;
   const dynamicImageUrl = `https://github.com/Craftech360-projects/qrautogourment/blob/main/images/${code}.png?raw=true`;
+
 
   var htmlString =
     `<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head><title>GOURMETLUXE</title><!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]--><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style type="text/css">#outlook a { padding:0; }
@@ -47,7 +49,7 @@ const request = mailjet.post('send', { version: 'v3.1' }).request({
       },
       To: [
         {
-          Email: email,
+          Email: 'sanjay@craftrech360.com',
           Name: name,
         },
       ],
