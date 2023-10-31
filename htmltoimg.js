@@ -15,7 +15,7 @@ if (!fs.existsSync(qrcodeDirectory)) {
   fs.mkdirSync(qrcodeDirectory);
 }
 
-let codeNumber = 2720;
+let codeNumber = 2725;
 let peopleCollection = []
 
 const generateImages = async () => {
@@ -89,7 +89,7 @@ const generateImages = async () => {
   <img src="${dataURI}" alt="no image" class="">
   <img src="${qrCodedataURI}" class="" id="qrimg">
 
-  <div id="name-container" class="flex flex-wrap"><p id="name" class="">Mrs Alyona Kapoor</p></div>
+  <div id="name-container" class="flex flex-wrap"><p id="name" class="">Kushal shetty</p></div>
   
     <div class="flex flex-wrap"><p id="code" class="" >${code}</p></div>
   </div>

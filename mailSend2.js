@@ -1,18 +1,21 @@
 const fs = require('fs');
 // const data = require('./data1.json');
 // const data = require('./data4.json');
-const data=[{
-  name:"Sabbas Joseph",
-  phoneNumber:"",
-  emailId:"sabbas.joseph@wizcraftworld.com",
-  code:"GL23EF0681"
-},
-{
-  name:"Balraj V Anthati",
-  phoneNumber:"9967236606",
-  emailId:"esha@sanjeevkapoor.com",
-  code:"GL23EF0682"
-}
+// const data = require('./data5.json');
+// const data = require('./data3.json');
+// const data=[{
+//   name:"Sabbas Joseph",
+//   phoneNumber:"",
+//   emailId:"sabbas.joseph@wizcraftworld.com",
+//   code:"GL23EF0681"
+// },
+// {
+//   name:"Balraj V Anthati",
+//   phoneNumber:"9967236606",
+//   emailId:"esha@sanjeevkapoor.com",
+//   code:"GL23EF0682"
+// }
+
 // {
 //   name:"Mr Kapoor",
 //   phoneNumber:"9821046055",
@@ -23,10 +26,10 @@ const data=[{
 //   phoneNumber:"9821222599",
 //   code:"GL23EF1913"
 // }
-]
+// ]
 const logger = require('./logger');
 logger.log('This is a log message.');
-for (let index = 0; index < 2; index++) {
+for (let index = 0; index < data.length; index++) {
   var people= data[index];
   const { name, emailId, code } = people;
   const dynamicImageUrl = `https://github.com/Craftech360-projects/qrautogourment/blob/main/images/${code}.png?raw=true`;
@@ -75,7 +78,7 @@ const request = mailjet.post('send', { version: 'v3.1' }).request({
           Name: name,
         },
       ],
-      Subject: 'Your Ticket to Gourmet Luxe 2023: See You Tomorrow',
+      Subject: 'Your Ticket to Gourmet Luxe 2023: See You Today',
       HTMLPart:  htmlString ,
     },
   ],
