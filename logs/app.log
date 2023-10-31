@@ -4909,3 +4909,10 @@ Ms.ShehnazAlam
 2023-10-31T06:38:03.060Z - francispereira@omcpl.com
 2023-10-31T06:38:02.839Z - Mr. Kishan Malpure
 2023-10-31T06:38:02.940Z - Mr. Kaival Patel
+2023-10-31T06:47:18.386Z - This is a log message.
+2023-10-31T06:47:19.119Z - Amar Jog
+2023-10-31T06:47:19.119Z - amarjog@gmail.com
+2023-10-31T06:47:19.119Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"amarjog@gmail.com","MessageUUID":"08f23b82-8c7a-4738-85e8-93b7cf886ca4","MessageID":"288230396450046753","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396450046753"}],"Cc":[],"Bcc":[]}]}
+2023-10-31T06:47:19.125Z - Kushal shetty
+2023-10-31T06:47:19.125Z - kushal@foodiesindia.com
+2023-10-31T06:47:19.126Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"kushal@foodiesindia.com","MessageUUID":"bbdfe2c4-4f16-4a1a-81f9-babf2e97bc08","MessageID":"1152921524907957690","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524907957690"}],"Cc":[],"Bcc":[]}]}

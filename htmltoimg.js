@@ -1,6 +1,6 @@
 const nodeHtmlToImage = require('node-html-to-image');
 const fs = require('fs');
-const data = require('./abi.json');
+const data = require('./birjus.json');
 const QRCode = require('qrcode');
 
 
@@ -15,11 +15,11 @@ if (!fs.existsSync(qrcodeDirectory)) {
   fs.mkdirSync(qrcodeDirectory);
 }
 
-let codeNumber = 2725;
+let codeNumber = 2726;
 let peopleCollection = []
 
 const generateImages = async () => {
-  for (let index = 0; index < 1; index++) {
+  for (let index = 0; index < data.length; index++) {
 
     let item = data[index];
     const { name, phoneNumber, email } = item;
@@ -89,7 +89,7 @@ const generateImages = async () => {
   <img src="${dataURI}" alt="no image" class="">
   <img src="${qrCodedataURI}" class="" id="qrimg">
 
-  <div id="name-container" class="flex flex-wrap"><p id="name" class="">Kushal shetty</p></div>
+  <div id="name-container" class="flex flex-wrap"><p id="name" class="">${name}</p></div>
   
     <div class="flex flex-wrap"><p id="code" class="" >${code}</p></div>
   </div>
@@ -279,4 +279,4 @@ generateImages().then(() => {
 
 // For name 
 
-{/*    */}
+{/*     <div id="name-container" class="flex flex-wrap"><p id="name" class="">Kushal shetty</p></div> */}
