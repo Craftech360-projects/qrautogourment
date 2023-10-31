@@ -4916,3 +4916,10 @@ Ms.ShehnazAlam
 2023-10-31T06:47:19.125Z - Kushal shetty
 2023-10-31T06:47:19.125Z - kushal@foodiesindia.com
 2023-10-31T06:47:19.126Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"kushal@foodiesindia.com","MessageUUID":"bbdfe2c4-4f16-4a1a-81f9-babf2e97bc08","MessageID":"1152921524907957690","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524907957690"}],"Cc":[],"Bcc":[]}]}
+2023-10-31T08:11:28.057Z - This is a log message.
+2023-10-31T08:11:29.011Z - Rohit Narayanan
+2023-10-31T08:11:29.011Z - rohitnarayanan@hotmail.com
+2023-10-31T08:11:29.011Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"rohitnarayanan@hotmail.com","MessageUUID":"79949f3e-e421-4338-b298-2c1fb8912d8c","MessageID":"288230396451613009","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396451613009"}],"Cc":[],"Bcc":[]}]}
+2023-10-31T08:11:29.014Z - Anish Shetty
+2023-10-31T08:11:29.014Z - anish.h.shetty@gmail.com
+2023-10-31T08:11:29.015Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"anish.h.shetty@gmail.com","MessageUUID":"6c12b008-f4a5-4103-910d-3337a901cf48","MessageID":"1152921524909537447","MessageHref":"https://api.mailjet.com/v3/REST/message/1152921524909537447"}],"Cc":[],"Bcc":[]}]}
