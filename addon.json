@@ -16,11 +16,69 @@
   "isAttended": false
 },
 {
-  "index": 1,
+  "index": 2,
   "name": "Anita Bhatia",
   "phoneNumber": 7777,
   "emailId": "rohitnarayanan@hotmail.com",
   "code": "GL23EF2746",
+  "isAttended": false
+},
+{
+  "index": 3,
+  "name": "Kanak Gandhi",
+  "phoneNumber": 9820715738,
+  "emailId": "kanakgandhi7@gmail.com",
+  "code": "GL23EF2747",
+  "isAttended": false
+},
+{
+  "index": 4,
+  "name": "Surya Jadhav",
+  "phoneNumber": 8951063877,
+  "emailId": "suryajadhav9100@gmail.com",
+  "code": "GL23EF2748",
+  "isAttended": false
+},{
+  "index": 5,
+  "name": "Kunal Ghadge",
+  "phoneNumber": 8689897660,
+  "emailId": "kunalghadge14@gmail.com",
+  "code": "GL23EF2749",
+  "isAttended": false
+},{
+  "index": 6,
+  "name": "Varnita Chalke ",
+  "phoneNumber": 9029905890,
+  "emailId": "vchalke2005@gmail.com",
+  "code": "GL23EF2750",
+  "isAttended": false
+},{
+  "index": 7,
+  "name": "Pandurang Pote",
+  "phoneNumber": 9167068411,
+  "emailId": "pandurang.111@yahoo.com",
+  "code": "GL23EF2751",
+  "isAttended": false
+},{
+  "index": 8,
+  "name": "Namrata Chalke",
+  "phoneNumber": 8169336490,
+  "emailId": "nchalke75@gmail.com",
+  "code": "GL23EF2752",
+  "isAttended": false
+},{
+  "index": 9,
+  "name": "Yuvraj Turewale",
+  "phoneNumber": 9136566342,
+  "emailId": "turewaleyuvraj@gmail.com",
+  "code": "GL23EF2753",
+  "isAttended": false
+},{
+  "index": 10,
+  "name": "Raj chindarkar",
+  "phoneNumber": 7045984655,
+  "emailId": "rajchindarkar123@gmail.com",
+  "code": "GL23EF2754",
   "isAttended": false
 }
 ]
