@@ -1808,3 +1808,10 @@ Mr.AarushBajaj
 2023-10-30T19:27:04.809Z - 9971795413
 2023-10-30T19:27:04.809Z - Neeraj Bahl
 2023-10-30T19:27:04.809Z - "Success."
+2023-10-30T21:05:14.184Z - This is a log message.
+2023-10-30T21:05:15.015Z - esha@sanjeevkapoor.com
+2023-10-30T21:05:15.015Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"esha@sanjeevkapoor.com","MessageUUID":"54cf0015-e193-4ce1-9bec-d94b0f4a65c1","MessageID":"288230396444860672","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396444860672"}],"Cc":[],"Bcc":[]}]}
+2023-10-30T21:05:15.015Z - Balraj V Anthati
+2023-10-30T21:05:15.032Z - Sabbas Joseph
+2023-10-30T21:05:15.032Z - sabbas.joseph@wizcraftworld.com
+2023-10-30T21:05:15.032Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sabbas.joseph@wizcraftworld.com","MessageUUID":"6a2f4202-d74d-447a-8618-714c229bd597","MessageID":"576460772597775888","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772597775888"}],"Cc":[],"Bcc":[]}]}
