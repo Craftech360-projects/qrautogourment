@@ -1,6 +1,6 @@
 const nodeHtmlToImage = require('node-html-to-image');
 const fs = require('fs');
-const data = require('./birjus.json');
+const data = require('./addon.json');
 const QRCode = require('qrcode');
 
 
@@ -15,7 +15,7 @@ if (!fs.existsSync(qrcodeDirectory)) {
   fs.mkdirSync(qrcodeDirectory);
 }
 
-let codeNumber = 2726;
+let codeNumber = 2743;
 let peopleCollection = []
 
 const generateImages = async () => {

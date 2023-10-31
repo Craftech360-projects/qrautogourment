@@ -1,0 +1,18 @@
+[
+{
+  "index": 0,
+  "name": "Anish Shetty",
+  "phoneNumber": 7777,
+  "emailId": "anish.h.shetty@gmail.com",
+  "code": "GL23EF2744",
+  "isAttended": false
+},
+{
+  "index": 1,
+  "name": "Rohit Narayanan",
+  "phoneNumber": 7777,
+  "emailId": "rohitnarayanan@hotmail.com",
+  "code": "GL23EF2745",
+  "isAttended": false
+}
+]
