@@ -1808,6 +1808,7 @@ Mr.AarushBajaj
 2023-10-30T19:27:04.809Z - 9971795413
 2023-10-30T19:27:04.809Z - Neeraj Bahl
 2023-10-30T19:27:04.809Z - "Success."
+<<<<<<< HEAD
 2023-10-30T21:05:14.184Z - This is a log message.
 2023-10-30T21:05:15.015Z - esha@sanjeevkapoor.com
 2023-10-30T21:05:15.015Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"esha@sanjeevkapoor.com","MessageUUID":"54cf0015-e193-4ce1-9bec-d94b0f4a65c1","MessageID":"288230396444860672","MessageHref":"https://api.mailjet.com/v3/REST/message/288230396444860672"}],"Cc":[],"Bcc":[]}]}
@@ -1815,3 +1816,45 @@ Mr.AarushBajaj
 2023-10-30T21:05:15.032Z - Sabbas Joseph
 2023-10-30T21:05:15.032Z - sabbas.joseph@wizcraftworld.com
 2023-10-30T21:05:15.032Z - {"Messages":[{"Status":"success","CustomID":"","To":[{"Email":"sabbas.joseph@wizcraftworld.com","MessageUUID":"6a2f4202-d74d-447a-8618-714c229bd597","MessageID":"576460772597775888","MessageHref":"https://api.mailjet.com/v3/REST/message/576460772597775888"}],"Cc":[],"Bcc":[]}]}
+=======
+2023-10-30T14:21:18.061Z - This is a log message.
+2023-10-30T14:21:20.116Z - "Success."
+2023-10-30T14:21:20.134Z - "Success."
+2023-10-30T14:21:20.156Z - "Success."
+2023-10-30T14:21:20.168Z - "Success."
+2023-10-30T14:21:20.170Z - "Success."
+2023-10-30T14:21:20.176Z - "Success."
+2023-10-30T14:21:20.188Z - "Success."
+2023-10-30T14:21:20.193Z - "Success."
+2023-10-30T14:21:20.242Z - "Success."
+2023-10-30T14:21:20.255Z - "Success."
+2023-10-30T14:21:20.260Z - "Success."
+2023-10-30T14:21:20.274Z - "Success."
+2023-10-30T14:21:20.272Z - "Success."
+2023-10-30T14:21:20.281Z - "Success."
+2023-10-30T14:21:20.313Z - "Success."
+2023-10-30T14:21:20.347Z - "Success."
+2023-10-30T14:21:20.471Z - "Success."
+2023-10-30T14:21:20.753Z - "Success."
+2023-10-30T14:21:20.866Z - "Success."
+2023-10-30T14:44:41.999Z - This is a log message.
+2023-10-30T14:44:44.138Z - "Success."
+2023-10-30T14:44:44.150Z - "Success."
+2023-10-30T14:44:44.162Z - "Success."
+2023-10-30T14:44:44.237Z - "Success."
+2023-10-30T14:44:44.438Z - "Success."
+2023-10-30T14:48:54.913Z - This is a log message.
+2023-10-30T14:49:26.769Z - This is a log message.
+2023-10-30T14:56:18.932Z - This is a log message.
+2023-10-30T14:56:55.291Z - This is a log message.
+2023-10-30T14:58:39.022Z - This is a log message.
+2023-10-30T14:59:01.919Z - This is a log message.
+2023-10-30T16:13:42.006Z - This is a log message.
+2023-10-30T16:42:31.127Z - This is a log message.
+2023-10-30T16:45:15.393Z - This is a log message.
+2023-10-30T16:45:56.810Z - This is a log message.
+2023-10-30T16:46:28.525Z - This is a log message.
+2023-10-30T16:47:51.195Z - This is a log message.
+2023-10-30T16:51:16.014Z - This is a log message.
+2023-10-30T17:32:46.508Z - This is a log message.
+>>>>>>> 91e0927ca903f28ca7bf8580fd310b925fd7e6a2
