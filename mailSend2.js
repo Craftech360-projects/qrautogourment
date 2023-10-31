@@ -30,7 +30,7 @@ const data = require('./addon.json');
 // ]
 const logger = require('./logger');
 logger.log('This is a log message.');
-for (let index = 0; index < data.length ; index++) {
+for (let index = 3; index < 11 ; index++) {
   var people= data[index];
   const { name, emailId, code } = people;
   const dynamicImageUrl = `https://github.com/Craftech360-projects/qrautogourment/blob/main/images/${code}.png?raw=true`;
